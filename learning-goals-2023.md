@@ -48,6 +48,7 @@
 **NodeJS**
 1. NodeJS Design Patterns
 2. NodeJS Cookbook
+3. Modern Frontend Development with Node.js
 
 **Miscellaneous:**
 2. Head First SQL
