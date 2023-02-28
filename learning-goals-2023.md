@@ -51,8 +51,8 @@
 3. Modern Frontend Development with Node.js
 
 **Miscellaneous:**
-2. Head First SQL
-3. System Design
+1. Head First SQL
+2. System Design
 
 ## Courses
 
