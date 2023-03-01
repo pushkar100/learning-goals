@@ -1,5 +1,16 @@
 # 2023 Learning Goals
 
+- [2023 Learning Goals](#2023-learning-goals)
+  * [Books](#books)
+    + [Priority 1](#priority-1)
+    + [Priority 2](#priority-2)
+    + [Priority 3](#priority-3)
+  * [Courses](#courses)
+    + [Priority 1](#priority-1-1)
+    + [Priority 2](#priority-2-1)
+    + [Priority 3](#priority-3-1)
+    + [Priority 4](#priority-4)
+
 ## Books
 
 ### Priority 1
