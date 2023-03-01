@@ -83,7 +83,8 @@
 6. SQLite Databases With Python - Full Course : [Youtube Video](https://www.youtube.com/watch?v=byHcYRpMgI4&ab_channel=freeCodeCamp.org) (1.5 hours)
 7. MySQL Database - Full Course : [Youtube Video](https://www.youtube.com/watch?v=ER8oKX5myE0&ab_channel=freeCodeCamp.org) (2 hours)
 8. UML Diagrams Full Course (Unified Modeling Language) : [Youtube Video](https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=60s&ab_channel=freeCodeCamp.org) (2 hours)
-9. Optional: Database Design Course - Learn how to design and plan a database for beginners : [Youtube Video](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=26264s&ab_channel=freeCodeCamp.org) (8 hours)
+9. Database Design Course - Learn how to design and plan a database for beginners : [Youtube Video](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=26264s&ab_channel=freeCodeCamp.org) (8 hours)
+10. Database Design : [Youtube Playlist](https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_) (10 mins x 17 videos)
 
 **React Hooks**
 1. React Hooks : [Youtube Playlist](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) (10 mins x 16 videos)
