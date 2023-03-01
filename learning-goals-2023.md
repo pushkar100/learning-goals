@@ -18,7 +18,7 @@
 **Amazon Web Services:**
 1. Amazon Web Services in Action, 3rd Ed (Andreas Wittig, Michael Wittig)
 2. AWS Lambda in Action (Danilo Poccia)
-3. (Learning Path) Implementing AWS: Design, Build, and Manage your Infrastructure (Yohan Wadia, Rowan Udell, Lucas Chan, Udita Gupta)
+3. Building Serverless Web Applications (Diego Zanon)
 
 **GraphQL:**
 1. GraphQL in Action (Samer Buna) (x2)
