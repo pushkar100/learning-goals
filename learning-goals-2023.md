@@ -133,6 +133,8 @@
 1. System Design for Beginners Course : [Youtube Video](https://www.youtube.com/watch?v=m8Icp_Cid5o&t=1035s&ab_channel=freeCodeCamp.org) (1.5 hours)
 2. System Design : [Youtube Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) (37 videos - less than 30 mins each)
 3. System Design Primer Course : [Youtube Playlist](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) (29 videos - 10 mins each)
+4. System Design Fundamentals : [Youtube Playlist](https://www.youtube.com/playlist?list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA) (20 videos - 5 mins each)
+5. System Design Interview Prep : [Youtube Playlist](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL) (23 videos - ~20 mins each)
 
 **GraphQL**
 1. Hasura GraphQL Engine – Video Mini-Course (2020) : [Youtube Playlist 7 short videos](https://www.youtube.com/playlist?list=PLX7eV3JL9sflIX7IOwnP_W36jwLV7fHaS)
