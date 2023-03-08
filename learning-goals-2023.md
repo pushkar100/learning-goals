@@ -18,7 +18,6 @@
 **Amazon Web Services:**
 1. Amazon Web Services in Action, 3rd Ed (Andreas Wittig, Michael Wittig)
 2. AWS Lambda in Action (Danilo Poccia)
-3. Building Serverless Web Applications (Diego Zanon)
 
 **GraphQL:**
 1. GraphQL in Action (Samer Buna) (x2)
@@ -59,7 +58,6 @@
 **NodeJS**
 1. NodeJS Design Patterns
 2. NodeJS Cookbook
-3. Modern Frontend Development with Node.js
 
 **Miscellaneous:**
 1. Head First SQL
@@ -154,3 +152,9 @@
 **Apache Spark**
 1. PySpark Tutorial : [Youtube Video](https://www.youtube.com/watch?v=_C8kWso4ne4&ab_channel=freeCodeCamp.org) (2 hours)
 2. PySpark Full Course [2023] | Learn PySpark | PySpark Tutorial | Edureka : [Youtube Video](https://www.youtube.com/watch?v=sSkAuTqfBA8&ab_channel=edureka%21) (4 hours)
+
+## MOOCs
+
+1. [Meta Back-End Developer Professional Certificate]([url](https://in.coursera.org/professional-certificates/meta-back-end-developer)) (9 courses - 8 months, 6 hours/week)
+2. [Meta Database Engineer Professional Certificate]([url](https://in.coursera.org/professional-certificates/meta-database-engineer)) (9 courses - 6 months, 6 hours/week) - Has overlap with the above course on backend engineering.
+3. [AWS Cloud Solutions Architect Professional Certificate]([url](https://in.coursera.org/professional-certificates/aws-cloud-solutions-architect)) (4 courses, 4 months, 4 hours/week)
