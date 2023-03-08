@@ -10,6 +10,7 @@
     + [Priority 2](#priority-2-1)
     + [Priority 3](#priority-3-1)
     + [Priority 4](#priority-4)
+  * [MOOCs](#moocs)
 
 ## Books
 
