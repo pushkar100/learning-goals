@@ -156,6 +156,6 @@
 
 ## MOOCs
 
-1. [Meta Back-End Developer Professional Certificate]([url](https://in.coursera.org/professional-certificates/meta-back-end-developer)) (9 courses - 8 months, 6 hours/week)
-2. [Meta Database Engineer Professional Certificate]([url](https://in.coursera.org/professional-certificates/meta-database-engineer)) (9 courses - 6 months, 6 hours/week) - Has overlap with the above course on backend engineering.
-3. [AWS Cloud Solutions Architect Professional Certificate]([url](https://in.coursera.org/professional-certificates/aws-cloud-solutions-architect)) (4 courses, 4 months, 4 hours/week)
+1. [Meta Back-End Developer Professional Certificate](https://in.coursera.org/professional-certificates/meta-back-end-developer) (9 courses - 8 months, 6 hours/week)
+2. [Meta Database Engineer Professional Certificate](https://in.coursera.org/professional-certificates/meta-database-engineer) (9 courses - 6 months, 6 hours/week) - Has overlap with the above course on backend engineering.
+3. [AWS Cloud Solutions Architect Professional Certificate](https://in.coursera.org/professional-certificates/aws-cloud-solutions-architect) (4 courses, 4 months, 4 hours/week)
