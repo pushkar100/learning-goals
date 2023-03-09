@@ -68,6 +68,10 @@
 
 ### Priority 1
 
+
+**Linux**
+1. The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners [Youtube Video](https://www.youtube.com/watch?v=ZtqBQ68cfJc) (5 hours)
+
 **Jenkins**
 1. Learn DevOps: CI/CD with Jenkins using Pipelines and Docker : [Udemy course](https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/) (5 hours)
 2. GitHub Actions: The Full Course - Learn by Doing! : [Youtube Playlist 9 hours](https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY)
