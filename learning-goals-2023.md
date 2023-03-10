@@ -138,6 +138,8 @@
 3. System Design Primer Course : [Youtube Playlist](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) (29 videos - 10 mins each)
 4. System Design Fundamentals : [Youtube Playlist](https://www.youtube.com/playlist?list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA) (20 videos - 5 mins each)
 5. System Design Interview Prep : [Youtube Playlist](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL) (23 videos - ~20 mins each)
+6. Front-End System Design : [Youtube Playlist](https://www.youtube.com/playlist?list=PLI9W87-Dqn7j_x6QtR6sUjycJR7nQLBqT) (10 videos - ~40 mins each)
+7. Basics of System Design : [Youtube Playlist](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u) (25 videos - ~15 mins each)
 
 **GraphQL**
 1. Hasura GraphQL Engine – Video Mini-Course (2020) : [Youtube Playlist 7 short videos](https://www.youtube.com/playlist?list=PLX7eV3JL9sflIX7IOwnP_W36jwLV7fHaS)
