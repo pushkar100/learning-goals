@@ -40,7 +40,7 @@
       - [Apache Kafka](#apache-kafka)
       - [Apache Spark](#apache-spark)
   * [MOOCs](#moocs)
-    + [Meta Back-End Developer Professiona](#meta-back-end-developer-professiona)
+    + [Meta Back-End Developer Professiona](#meta-back-end-developer-professional-certificate)
     + [Meta Database Engineer Professional Certificate](#meta-database-engineer-professional-certificate)
     + [AWS Cloud Solutions Architect Professional Certificate](#aws-cloud-solutions-architect-professional-certificate)
 
@@ -197,7 +197,7 @@
 
 ## MOOCs
 
-### Meta Back-End Developer Professiona
+### Meta Back-End Developer Professional Certificate
 
 [Meta Back-End Developer Professional Certificate](https://in.coursera.org/professional-certificates/meta-back-end-developer) (9 courses - 8 months, 6 hours/week)
 
