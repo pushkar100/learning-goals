@@ -20,7 +20,7 @@
     + [Priority 1](#priority-1-1)
       - [Linux](#linux)
       - [Jenkins](#jenkins)
-      - [Docker & Kubernetes](#docker-and-kubernetes)
+      - [Docker and Kubernetes](#docker-and-kubernetes)
       - [Terraform](#terraform)
       - [Python](#python-1)
       - [Databases](#databases)
