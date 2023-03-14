@@ -20,7 +20,7 @@
     + [Priority 1](#priority-1-1)
       - [Linux](#linux)
       - [Jenkins](#jenkins)
-      - [Docker & Kubernetes](#docker---kubernetes)
+      - [Docker & Kubernetes](#docker-and-kubernetes)
       - [Terraform](#terraform)
       - [Python](#python-1)
       - [Databases](#databases)
@@ -111,7 +111,7 @@
 1. Learn DevOps: CI/CD with Jenkins using Pipelines and Docker : [Udemy course](https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/) (5 hours)
 2. GitHub Actions: The Full Course - Learn by Doing! : [Youtube Playlist 9 hours](https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY)
 
-#### Docker & Kubernetes
+#### Docker and Kubernetes
 1. Docker Containers and Kubernetes Fundamentals – Full Hands-On Course : [Youtube Video](https://www.youtube.com/watch?v=kTp5xUtcalw&ab_channel=freeCodeCamp.org) (6 hours)
 2. Docker and Kubernetes: The Complete Guide : [Udemy course](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) (22 hours)
 
