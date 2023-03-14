@@ -54,6 +54,9 @@
 2. Simpliyfing JavaScript (Joe Morgan)
 3. Rediscovering JavaScript (Venkat Subramaniam)
 
+**Data and APIs:**
+1. Designing Data-Intensive Applications (Marting Kleppmann)
+
 ### Priority 3
 
 **NodeJS**
