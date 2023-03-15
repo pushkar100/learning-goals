@@ -163,7 +163,7 @@
 2. Create a Design System with CSS - Web Development Course : [Youtube Video](https://www.youtube.com/watch?v=lRaL-8qZ0mM&t=7648s&ab_channel=freeCodeCamp.org) (7 hours)
 
 #### Interview Prep
-1. DSA: [Resources to learn Data Structures and Algorithms](https://github.com/pushkar100/notes-data-structure-algorithms/blob/master/coding-interview-resources.md)
+1. DSA: [Resources to learn Data Structures and Algorithms](https://github.com/pushkar100/notes-data-structure-algorithms/blob/master/18-resources-to-crack-coding-interviews.md)
 
 ### Priority 3
 
