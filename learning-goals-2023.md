@@ -1,5 +1,34 @@
 # 2023 Learning Goals
 
+- [2023 Learning Goals](#2023-learning-goals)
+  * [Books](#books)
+    + [Amazon Web Services](#amazon-web-services)
+    + [Web Security](#web-security)
+    + [Frontend](#frontend)
+    + [Web Performance](#web-performance)
+    + [GraphQL](#graphql)
+    + [Python Web Applications](#python-web-applications)
+    + [Clean Code](#clean-code)
+    + [Database](#database)
+  * [Courses](#courses)
+    + [MOOCs](#moocs)
+      - [Meta Back-End Developer Professional Certificate](#meta-back-end-developer-professional-certificate)
+      - [Meta Database Engineer Professional Certificate](#meta-database-engineer-professional-certificate)
+      - [AWS Cloud Solutions Architect Professional Certificate](#aws-cloud-solutions-architect-professional-certificate)
+    + [Linux](#linux)
+    + [Jenkins](#jenkins)
+    + [Docker and Kubernetes](#docker-and-kubernetes)
+    + [Terraform](#terraform)
+    + [Databases](#databases)
+    + [TypeScript](#typescript)
+    + [Microservices](#microservices)
+    + [Testing](#testing)
+    + [React](#react)
+    + [Frontend](#frontend-1)
+    + [Interview Prep](#interview-prep)
+    + [GraphQL](#graphql-1)
+    + [Miscellaneous](#miscellaneous)
+
 ## Books
 
 ### Amazon Web Services
