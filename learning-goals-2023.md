@@ -80,6 +80,14 @@
 #### Meta Database Engineer Professional Certificate
 [Meta Database Engineer Professional Certificate](https://in.coursera.org/professional-certificates/meta-database-engineer) (9 courses - 6 months, 6 hours/week) - Has overlap with the above course on backend engineering.
 
+#### Cloud Guru
+
+1. [AWS Developer learning path](https://learn.acloud.guru/learning-path/aws-developer)
+2. [AWS Architect](https://learn.acloud.guru/learning-path/aws-architect)
+3. [AWS DevOps](https://learn.acloud.guru/learning-path/aws-devops)
+4. [AWS Security](https://learn.acloud.guru/learning-path/aws-security)
+5. [AWS Data](https://learn.acloud.guru/learning-path/aws-data)
+
 #### AWS Cloud Solutions Architect Professional Certificate
 [AWS Cloud Solutions Architect Professional Certificate](https://in.coursera.org/professional-certificates/aws-cloud-solutions-architect) (4 courses, 4 months, 4 hours/week)
 
