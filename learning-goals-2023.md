@@ -14,6 +14,7 @@
     + [MOOCs](#moocs)
       - [Meta Back-End Developer Professional Certificate](#meta-back-end-developer-professional-certificate)
       - [Meta Database Engineer Professional Certificate](#meta-database-engineer-professional-certificate)
+      - [Cloud Guru](#cloud-guru)
       - [AWS Cloud Solutions Architect Professional Certificate](#aws-cloud-solutions-architect-professional-certificate)
     + [Linux](#linux)
     + [Jenkins](#jenkins)
@@ -23,10 +24,8 @@
     + [TypeScript](#typescript)
     + [Microservices](#microservices)
     + [Testing](#testing)
-    + [React](#react)
     + [Frontend](#frontend-1)
     + [Interview Prep](#interview-prep)
-    + [GraphQL](#graphql-1)
     + [Miscellaneous](#miscellaneous)
 
 ## Books
@@ -107,8 +106,7 @@
 
 ### Databases
 1. SQL and PostgreSQL: The Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/sql-and-postgresql/) (22 hours)
-2. NoSQL vs SQL – Which Type of Database Should You Use? : [Youtube Video](https://www.youtube.com/watch?v=FzlpwoeSrE0&ab_channel=freeCodeCamp.org) (1.5 hours)
-3. NoSQL Database Tutorial – Full Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=xh4gy1lbL2k&ab_channel=freeCodeCamp.org) (3 hours)
+2. NoSQL Database Tutorial – Full Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=xh4gy1lbL2k&ab_channel=freeCodeCamp.org) (3 hours)
 4. Apache Cassandra Database – Full Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=J-cSy5MeMOA&ab_channel=freeCodeCamp.org) (1 hour)
 5. Redis Course - In-Memory Database Tutorial : [Youtube Video](https://www.youtube.com/watch?v=XCsS_NVAa1g&ab_channel=freeCodeCamp.org) (1.5 hours)
 6. SQLite Databases With Python - Full Course : [Youtube Video](https://www.youtube.com/watch?v=byHcYRpMgI4&ab_channel=freeCodeCamp.org) (1.5 hours)
@@ -125,25 +123,19 @@
 2. Microservice Architecture and System Design with Python & Kubernetes – Full Course : [Youtube Video](https://www.youtube.com/watch?v=hmkF77F9TLw&t=9031s&ab_channel=freeCodeCamp.org) (5 hours)
 3. OpenTelemetry Course - Understand Software Performance : [Youtube Video](https://www.youtube.com/watch?v=r8UvWSX3KA8&t=73s&ab_channel=freeCodeCamp.org) (1 hour)
 4. Event-Driven Architecture with React and FastAPI – Full Course : [Youtube Video](https://www.youtube.com/watch?v=NVvIpqmf_Xc&ab_channel=freeCodeCamp.org) (1.5 hours)
-5. Microfrontends with React: A Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/microfrontend-course/) (9 hours)
 
 ### Testing
 1. Testing React with Jest and React Testing Library (RTL) : [Udemy course](https://www.udemy.com/course/react-testing-library/) (8 hours)
 2. Learn Cypress in 3 Hours | Full Cypress Tutorial | Cypress Automation | LambdaTest : [Youtube Video](https://www.youtube.com/watch?v=jX3v3N6oN5M&ab_channel=LambdaTest) (3 hours)
 
-### React
-1. Next.js & React - The Complete Guide (incl. Two Paths!) : [Udemy course](https://www.udemy.com/course/nextjs-react-the-complete-guide/) (25 hours)
-3. React State Management – Intermediate JavaScript Course : [Youtube Video](https://www.youtube.com/watch?v=-bEzt5ISACA&t=12s&ab_channel=freeCodeCamp.org) (3 hours)
-
 ### Frontend
-1. Build a Chrome Extension – Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=0n809nd4Zu4&t=72s&ab_channel=freeCodeCamp.org) (1 hour)
-2. Create a Design System with CSS - Web Development Course : [Youtube Video](https://www.youtube.com/watch?v=lRaL-8qZ0mM&t=7648s&ab_channel=freeCodeCamp.org) (7 hours)
+1. Next.js & React - The Complete Guide (incl. Two Paths!) : [Udemy course](https://www.udemy.com/course/nextjs-react-the-complete-guide/) (25 hours)
+2. React State Management – Intermediate JavaScript Course : [Youtube Video](https://www.youtube.com/watch?v=-bEzt5ISACA&t=12s&ab_channel=freeCodeCamp.org) (3 hours)
+3. Create a Design System with CSS - Web Development Course : [Youtube Video](https://www.youtube.com/watch?v=lRaL-8qZ0mM&t=7648s&ab_channel=freeCodeCamp.org) (7 hours)
+4. Microfrontends with React: A Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/microfrontend-course/) (9 hours)
 
 ### Interview Prep
 1. DSA: [Resources to learn Data Structures and Algorithms](https://github.com/pushkar100/notes-data-structure-algorithms/blob/master/18-resources-to-crack-coding-interviews.md)
-
-### GraphQL
-1. Hasura GraphQL Engine – Video Mini-Course (2020) : [Youtube Playlist 7 short videos](https://www.youtube.com/playlist?list=PLX7eV3JL9sflIX7IOwnP_W36jwLV7fHaS)
 
 ### Miscellaneous
 1. Feature Toggles - Why and How to Add to Your Software : [Youtube Video](https://www.youtube.com/watch?v=-yHZ9uLVSp4&ab_channel=freeCodeCamp.org) (2 hours)
