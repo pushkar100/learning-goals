@@ -14,14 +14,14 @@
     + [MOOCs](#moocs)
       - [Meta Back-End Developer Professional Certificate](#meta-back-end-developer-professional-certificate)
       - [Meta Database Engineer Professional Certificate](#meta-database-engineer-professional-certificate)
-      - [Cloud Guru Learning Paths](#cloud-guru-learning-paths)
-      - [AWS Cloud Solutions Architect Professional Certificate](#aws-cloud-solutions-architect-professional-certificate)
-    + [Linux](#linux)
-    + [Jenkins](#jenkins)
-    + [Docker and Kubernetes](#docker-and-kubernetes)
-    + [Terraform](#terraform)
+    + [AWS](#aws)
+      - [[AWS Developer learning path](https://learn.acloud.guru/learning-path/aws-developer)](#-aws-developer-learning-path--https---learnacloudguru-learning-path-aws-developer-)
+      - [[AWS Architect learning path](https://learn.acloud.guru/learning-path/aws-architect)](#-aws-architect-learning-path--https---learnacloudguru-learning-path-aws-architect-)
+      - [[AWS DevOps learning path](https://learn.acloud.guru/learning-path/aws-devops)](#-aws-devops-learning-path--https---learnacloudguru-learning-path-aws-devops-)
+      - [[AWS Security learning path](https://learn.acloud.guru/learning-path/aws-security)](#-aws-security-learning-path--https---learnacloudguru-learning-path-aws-security-)
+        * [[AWS Data learning path](https://learn.acloud.guru/learning-path/aws-data)](#-aws-data-learning-path--https---learnacloudguru-learning-path-aws-data-)
+    + [DevOps](#devops)
     + [Databases](#databases)
-    + [TypeScript](#typescript)
     + [Microservices](#microservices)
     + [Testing](#testing)
     + [Frontend](#frontend-1)
@@ -79,30 +79,28 @@
 #### Meta Database Engineer Professional Certificate
 [Meta Database Engineer Professional Certificate](https://in.coursera.org/professional-certificates/meta-database-engineer) (9 courses - 6 months, 6 hours/week) - Has overlap with the above course on backend engineering.
 
-#### Cloud Guru Learning Paths
+### AWS 
 
-1. [AWS Developer](https://learn.acloud.guru/learning-path/aws-developer)
-2. [AWS Architect](https://learn.acloud.guru/learning-path/aws-architect)
-3. [AWS DevOps](https://learn.acloud.guru/learning-path/aws-devops)
-4. [AWS Security](https://learn.acloud.guru/learning-path/aws-security)
-5. [AWS Data](https://learn.acloud.guru/learning-path/aws-data)
+#### [AWS Developer learning path](https://learn.acloud.guru/learning-path/aws-developer)
 
-#### AWS Cloud Solutions Architect Professional Certificate
-[AWS Cloud Solutions Architect Professional Certificate](https://in.coursera.org/professional-certificates/aws-cloud-solutions-architect) (4 courses, 4 months, 4 hours/week)
+#### [AWS Architect learning path](https://learn.acloud.guru/learning-path/aws-architect)
 
-### Linux
+#### [AWS DevOps learning path](https://learn.acloud.guru/learning-path/aws-devops)
+
+#### [AWS Security learning path](https://learn.acloud.guru/learning-path/aws-security)
+
+##### [AWS Data learning path](https://learn.acloud.guru/learning-path/aws-data)
+
+### DevOps
+
+**Linux** | **Jenkins** | **GitHub Actions** | **Docker** | **Kubernetes**
+
 1. The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=ZtqBQ68cfJc) (5 hours)
-
-### Jenkins
-1. Learn DevOps: CI/CD with Jenkins using Pipelines and Docker : [Udemy course](https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/) (5 hours)
-2. GitHub Actions: The Full Course - Learn by Doing! : [Youtube Playlist 9 hours](https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY)
-
-### Docker and Kubernetes
-1. Docker Containers and Kubernetes Fundamentals – Full Hands-On Course : [Youtube Video](https://www.youtube.com/watch?v=kTp5xUtcalw&ab_channel=freeCodeCamp.org) (6 hours)
-2. Docker and Kubernetes: The Complete Guide : [Udemy course](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) (22 hours)
-
-### Terraform
-1. Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code) : [Youtube Video](https://www.youtube.com/watch?v=iRaai1IBlB0&t=334s&ab_channel=freeCodeCamp.org) (1.5 hours)
+2. Learn DevOps: CI/CD with Jenkins using Pipelines and Docker : [Udemy course](https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/) (5 hours)
+3. GitHub Actions: The Full Course - Learn by Doing! : [Youtube Playlist 9 hours](https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY)
+4. Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code) : [Youtube Video](https://www.youtube.com/watch?v=iRaai1IBlB0&t=334s&ab_channel=freeCodeCamp.org) (1.5 hours)
+5. Docker Containers and Kubernetes Fundamentals – Full Hands-On Course : [Youtube Video](https://www.youtube.com/watch?v=kTp5xUtcalw&ab_channel=freeCodeCamp.org) (6 hours)
+6. Docker and Kubernetes: The Complete Guide : [Udemy course](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) (22 hours)
 
 ### Databases
 1. SQL and PostgreSQL: The Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/sql-and-postgresql/) (22 hours)
@@ -115,9 +113,6 @@
 9. Database Design Course - Learn how to design and plan a database for beginners : [Youtube Video](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=26264s&ab_channel=freeCodeCamp.org) (8 hours)
 10. Database Design : [Youtube Playlist](https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_) (10 mins x 17 videos)
 
-### TypeScript
-1. No BS TS : [Youtube Playlist](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n) (15 mins x 44 videos)
-
 ### Microservices
 1. Microservices with Node JS and React : [Udemy course](https://www.udemy.com/course/microservices-with-node-js-and-react/) (54 hours)
 2. Microservice Architecture and System Design with Python & Kubernetes – Full Course : [Youtube Video](https://www.youtube.com/watch?v=hmkF77F9TLw&t=9031s&ab_channel=freeCodeCamp.org) (5 hours)
@@ -125,14 +120,15 @@
 4. Event-Driven Architecture with React and FastAPI – Full Course : [Youtube Video](https://www.youtube.com/watch?v=NVvIpqmf_Xc&ab_channel=freeCodeCamp.org) (1.5 hours)
 
 ### Testing
-1. Testing React with Jest and React Testing Library (RTL) : [Udemy course](https://www.udemy.com/course/react-testing-library/) (8 hours)
-2. Learn Cypress in 3 Hours | Full Cypress Tutorial | Cypress Automation | LambdaTest : [Youtube Video](https://www.youtube.com/watch?v=jX3v3N6oN5M&ab_channel=LambdaTest) (3 hours)
 
 ### Frontend
 1. Next.js & React - The Complete Guide (incl. Two Paths!) : [Udemy course](https://www.udemy.com/course/nextjs-react-the-complete-guide/) (25 hours)
 2. React State Management – Intermediate JavaScript Course : [Youtube Video](https://www.youtube.com/watch?v=-bEzt5ISACA&t=12s&ab_channel=freeCodeCamp.org) (3 hours)
 3. Create a Design System with CSS - Web Development Course : [Youtube Video](https://www.youtube.com/watch?v=lRaL-8qZ0mM&t=7648s&ab_channel=freeCodeCamp.org) (7 hours)
 4. Microfrontends with React: A Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/microfrontend-course/) (9 hours)
+5. No BS TS : [Youtube Playlist](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n) (15 mins x 44 videos)
+6. Testing React with Jest and React Testing Library (RTL) : [Udemy course](https://www.udemy.com/course/react-testing-library/) (8 hours)
+7. Learn Cypress in 3 Hours | Full Cypress Tutorial | Cypress Automation | LambdaTest : [Youtube Video](https://www.youtube.com/watch?v=jX3v3N6oN5M&ab_channel=LambdaTest) (3 hours)
 
 ### Interview Prep
 1. DSA: [Resources to learn Data Structures and Algorithms](https://github.com/pushkar100/notes-data-structure-algorithms/blob/master/18-resources-to-crack-coding-interviews.md)
