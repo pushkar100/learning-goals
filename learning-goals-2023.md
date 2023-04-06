@@ -19,7 +19,7 @@
       - [AWS Architect learning path](#aws-architect-learning-path)
       - [AWS DevOps learning path](#aws-devops-learning-path)
       - [AWS Security learning path](#aws-security-learning-path)
-        * [AWS Data learning path](#aws-data-learning-path)
+      - [AWS Data learning path](#aws-data-learning-path)
     + [DevOps](#devops)
     + [Databases](#databases)
     + [Microservices](#microservices)
@@ -97,7 +97,7 @@
 
 [AWS Security learning path](https://learn.acloud.guru/learning-path/aws-security)
 
-##### AWS Data learning path
+#### AWS Data learning path
 
 [AWS Data learning path](https://learn.acloud.guru/learning-path/aws-data)
 
