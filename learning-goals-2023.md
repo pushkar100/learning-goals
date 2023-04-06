@@ -81,15 +81,25 @@
 
 ### AWS 
 
-#### [AWS Developer learning path](https://learn.acloud.guru/learning-path/aws-developer)
+#### AWS Developer learning path
 
-#### [AWS Architect learning path](https://learn.acloud.guru/learning-path/aws-architect)
+[AWS Developer learning path](https://learn.acloud.guru/learning-path/aws-developer)
 
-#### [AWS DevOps learning path](https://learn.acloud.guru/learning-path/aws-devops)
+#### AWS Architect learning path
 
-#### [AWS Security learning path](https://learn.acloud.guru/learning-path/aws-security)
+[AWS Architect learning path](https://learn.acloud.guru/learning-path/aws-architect)
 
-##### [AWS Data learning path](https://learn.acloud.guru/learning-path/aws-data)
+#### AWS DevOps learning path
+
+[AWS DevOps learning path](https://learn.acloud.guru/learning-path/aws-devops)
+
+#### AWS Security learning path
+
+[AWS Security learning path](https://learn.acloud.guru/learning-path/aws-security)
+
+##### AWS Data learning path
+
+[AWS Data learning path](https://learn.acloud.guru/learning-path/aws-data)
 
 ### DevOps
 
