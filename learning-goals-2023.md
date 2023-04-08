@@ -26,6 +26,7 @@
     + [Testing](#testing)
     + [Frontend](#frontend-1)
     + [Interview Prep](#interview-prep)
+    + [Rust][#rust]
     + [Miscellaneous](#miscellaneous)
 
 ## Books
@@ -142,6 +143,11 @@
 
 ### Interview Prep
 1. DSA: [Resources to learn Data Structures and Algorithms](https://github.com/pushkar100/notes-data-structure-algorithms/blob/master/18-resources-to-crack-coding-interviews.md)
+
+### Rust
+
+1. Easy Rust (23hrs) [Youtube Playlist](https://www.classcentral.com/classroom/youtube-easy-rust-bite-sized-rust-tutorials-64313)
+2. Learn Rust by Building Real Applications (6.5hrs) [Udemy Course](https://www.udemy.com/course/rust-fundamentals/?ranMID=39197&ranEAID=SAyYsTvLiGQ&ranSiteID=SAyYsTvLiGQ-A1q5x0P.UNyoV3Oit59OaA&LSNPUBID=SAyYsTvLiGQ&utm_source=aff-campaign&utm_medium=udemyads)
 
 ### Miscellaneous
 1. Feature Toggles - Why and How to Add to Your Software : [Youtube Video](https://www.youtube.com/watch?v=-yHZ9uLVSp4&ab_channel=freeCodeCamp.org) (2 hours)
