@@ -5,7 +5,6 @@
     + [Amazon Web Services](#amazon-web-services)
     + [Web Security](#web-security)
     + [Frontend](#frontend)
-    + [Web Performance](#web-performance)
     + [GraphQL](#graphql)
     + [Python Web Applications](#python-web-applications)
     + [Clean Code](#clean-code)
@@ -18,8 +17,6 @@
       - [AWS Developer learning path](#aws-developer-learning-path)
       - [AWS Architect learning path](#aws-architect-learning-path)
       - [AWS DevOps learning path](#aws-devops-learning-path)
-      - [AWS Security learning path](#aws-security-learning-path)
-      - [AWS Data learning path](#aws-data-learning-path)
     + [DevOps](#devops)
     + [Databases](#databases)
     + [Microservices](#microservices)
@@ -36,24 +33,19 @@
 
 ### Web Security
 1. Security and Frontend Performance (Sonia Burney & Sabrina Burney) (2017)
-2. Web Security for Developers (Malcolm McDonald) (2020)
-3. Web Application Security (Andrew Hoffman) (2020)
-4. [OWASP Cheatsheet - A series of succinct articles on web security](https://cheatsheetseries.owasp.org/): See "Cheatsheets" section
-5. Wiki on CSRF (y/csrf)
+2. Web Application Security (Andrew Hoffman) (2020)
+3. [OWASP Cheatsheet - A series of succinct articles on web security](https://cheatsheetseries.owasp.org/): See "Cheatsheets" section
 
 ### Frontend
 1. Mastering React Test-Driven Development, 2nd Ed (Daniel Irvine) (2022)
 2. Micro-state management with React hooks (Daishi Kato) (2022)
 3. CSS in Depth (Keith J. Grant) (2018)
 4. JavaScript: The Definitive Guide, 7th Ed (David Flanagan)
-
-### Web Performance
-1. High Performance Browser Networking (Ilya Grigorik) (2013)
+5. High Performance Browser Networking (Ilya Grigorik) (2013)
 
 ### GraphQL
 1. GraphQL in Action (Samer Buna) (2021)
 2. Full-Stack Web Development with GraphQL & React, 2nd Ed (Sebastian Grebe) (2021)
-3. Wiki on GraphQL (y/graphql-docs)
 
 ### Python Web Applications
 1. Clean Code in Python, 2nd Ed (Mariano Anaya) (2020)
@@ -94,14 +86,6 @@
 
 [AWS DevOps learning path](https://learn.acloud.guru/learning-path/aws-devops)
 
-#### AWS Security learning path
-
-[AWS Security learning path](https://learn.acloud.guru/learning-path/aws-security)
-
-#### AWS Data learning path
-
-[AWS Data learning path](https://learn.acloud.guru/learning-path/aws-data)
-
 ### DevOps
 
 **Linux** | **Jenkins** | **GitHub Actions** | **Docker** | **Kubernetes**
@@ -116,19 +100,15 @@
 ### Databases
 1. SQL and PostgreSQL: The Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/sql-and-postgresql/) (22 hours)
 2. NoSQL Database Tutorial – Full Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=xh4gy1lbL2k&ab_channel=freeCodeCamp.org) (3 hours)
-4. Apache Cassandra Database – Full Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=J-cSy5MeMOA&ab_channel=freeCodeCamp.org) (1 hour)
-5. Redis Course - In-Memory Database Tutorial : [Youtube Video](https://www.youtube.com/watch?v=XCsS_NVAa1g&ab_channel=freeCodeCamp.org) (1.5 hours)
-6. SQLite Databases With Python - Full Course : [Youtube Video](https://www.youtube.com/watch?v=byHcYRpMgI4&ab_channel=freeCodeCamp.org) (1.5 hours)
-7. MySQL Database - Full Course : [Youtube Video](https://www.youtube.com/watch?v=ER8oKX5myE0&ab_channel=freeCodeCamp.org) (2 hours)
-8. UML Diagrams Full Course (Unified Modeling Language) : [Youtube Video](https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=60s&ab_channel=freeCodeCamp.org) (2 hours)
-9. Database Design Course - Learn how to design and plan a database for beginners : [Youtube Video](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=26264s&ab_channel=freeCodeCamp.org) (8 hours)
-10. Database Design : [Youtube Playlist](https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_) (10 mins x 17 videos)
+3. Redis Course - In-Memory Database Tutorial : [Youtube Video](https://www.youtube.com/watch?v=XCsS_NVAa1g&ab_channel=freeCodeCamp.org) (1.5 hours)
+4. MySQL Database - Full Course : [Youtube Video](https://www.youtube.com/watch?v=ER8oKX5myE0&ab_channel=freeCodeCamp.org) (2 hours)
+5. UML Diagrams Full Course (Unified Modeling Language) : [Youtube Video](https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=60s&ab_channel=freeCodeCamp.org) (2 hours)
+6. Database Design Course - Learn how to design and plan a database for beginners : [Youtube Video](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=26264s&ab_channel=freeCodeCamp.org) (8 hours)
+7. Database Design : [Youtube Playlist](https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_) (10 mins x 17 videos)
 
 ### Microservices
 1. Microservices with Node JS and React : [Udemy course](https://www.udemy.com/course/microservices-with-node-js-and-react/) (54 hours)
 2. Microservice Architecture and System Design with Python & Kubernetes – Full Course : [Youtube Video](https://www.youtube.com/watch?v=hmkF77F9TLw&t=9031s&ab_channel=freeCodeCamp.org) (5 hours)
-3. OpenTelemetry Course - Understand Software Performance : [Youtube Video](https://www.youtube.com/watch?v=r8UvWSX3KA8&t=73s&ab_channel=freeCodeCamp.org) (1 hour)
-4. Event-Driven Architecture with React and FastAPI – Full Course : [Youtube Video](https://www.youtube.com/watch?v=NVvIpqmf_Xc&ab_channel=freeCodeCamp.org) (1.5 hours)
 
 ### Testing
 
