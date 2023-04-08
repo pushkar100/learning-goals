@@ -20,7 +20,6 @@
     + [DevOps](#devops)
     + [Databases](#databases)
     + [Microservices](#microservices)
-    + [Testing](#testing)
     + [Frontend](#frontend-1)
     + [Interview Prep](#interview-prep)
     + [Rust](#rust)
@@ -105,8 +104,6 @@
 ### Microservices
 1. Microservices with Node JS and React : [Udemy course](https://www.udemy.com/course/microservices-with-node-js-and-react/) (54 hours)
 2. Microservice Architecture and System Design with Python & Kubernetes – Full Course : [Youtube Video](https://www.youtube.com/watch?v=hmkF77F9TLw&t=9031s&ab_channel=freeCodeCamp.org) (5 hours)
-
-### Testing
 
 ### Frontend
 1. Next.js & React - The Complete Guide (incl. Two Paths!) : [Udemy course](https://www.udemy.com/course/nextjs-react-the-complete-guide/) (25 hours)
