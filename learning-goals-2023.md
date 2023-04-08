@@ -26,7 +26,7 @@
     + [Testing](#testing)
     + [Frontend](#frontend-1)
     + [Interview Prep](#interview-prep)
-    + [Rust][#rust]
+    + [Rust](#rust)
     + [Miscellaneous](#miscellaneous)
 
 ## Books
