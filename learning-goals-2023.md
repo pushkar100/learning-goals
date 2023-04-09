@@ -48,8 +48,10 @@
 
 ### Python Web Applications
 1. Clean Code in Python, 2nd Ed (Mariano Anaya) (2020)
-2. Python Microservices Development, 2nd Ed (Simon Fraser, Tarek Ziade) (2021)
-3. API Design Patterns (JJ Geewax) (2021)
+2. Web Development with Django (Ben Shaw, Saurabh Bhadwar) (2021)
+3. A Blueprint for Production Ready Web Applications (Dr. Philip Jones) (2022)
+4. Python Microservices Development, 2nd Ed (Simon Fraser, Tarek Ziade) (2021)
+5. API Design Patterns (JJ Geewax) (2021)
 
 ### Clean Code
 1. Five lines of code (Christian Clausen) (2021)
