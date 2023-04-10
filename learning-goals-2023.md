@@ -97,10 +97,12 @@
 1. SQL and PostgreSQL: The Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/sql-and-postgresql/) (22 hours)
 2. MySQL Database - Full Course : [Youtube Video](https://www.youtube.com/watch?v=ER8oKX5myE0&ab_channel=freeCodeCamp.org) (2 hours)
 3. NoSQL Database Tutorial – Full Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=xh4gy1lbL2k&ab_channel=freeCodeCamp.org) (3 hours)
-4. Redis Course - In-Memory Database Tutorial : [Youtube Video](https://www.youtube.com/watch?v=XCsS_NVAa1g&ab_channel=freeCodeCamp.org) (1.5 hours)
-5. UML Diagrams Full Course (Unified Modeling Language) : [Youtube Video](https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=60s&ab_channel=freeCodeCamp.org) (2 hours)
-6. Database Design Course - Learn how to design and plan a database for beginners : [Youtube Video](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=26264s&ab_channel=freeCodeCamp.org) (8 hours)
-7. Database Design : [Youtube Playlist](https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_) (10 mins x 17 videos)
+4. Apache Cassandra : [Youtube Video](https://www.youtube.com/watch?v=J-cSy5MeMOA&ab_channel=freeCodeCamp.org) (1 hour)
+5. Redis Course - In-Memory Database Tutorial : [Youtube Video](https://www.youtube.com/watch?v=XCsS_NVAa1g&ab_channel=freeCodeCamp.org) (1.5 hours)
+6. AWS DynamoDB: [Youtube Video](https://www.youtube.com/playlist?list=PLvmxnsCyoh65lBHmg9TTPJg3nK4l50oxv) (7 videos, 2.5 hours in total)
+7. UML Diagrams Full Course (Unified Modeling Language) : [Youtube Video](https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=60s&ab_channel=freeCodeCamp.org) (2 hours)
+8. Database Design Course - Learn how to design and plan a database for beginners : [Youtube Video](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=26264s&ab_channel=freeCodeCamp.org) (8 hours)
+9. Database Design : [Youtube Playlist](https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_) (10 mins x 17 videos)
 
 ### Microservices
 1. Microservices with Node JS and React : [Udemy course](https://www.udemy.com/course/microservices-with-node-js-and-react/) (54 hours)
