@@ -47,12 +47,10 @@
 2. Full-Stack Web Development with GraphQL & React, 2nd Ed (Sebastian Grebe) (2021)
 
 ### Python Web Applications
-1. Modern Python Cookbook, 2nd Ed (Steven F Lott) (2020)
-2. Web Development with Django (Ben Shaw, Saurabh Bhadwar) (2021)
-3. A Blueprint for Production Ready Web Applications (Dr. Philip Jones) (2022)
+1. Python Crash Course (Eric Mathes) (2016) 
+2. Automate the Boring Stuff with Python, 2nd Ed (Al Sweigart) (2020)
+3. Web Development with Django (Ben Shaw, Saurabh Bhadwar) (2021)
 4. Python Microservices Development, 2nd Ed (Simon Fraser, Tarek Ziade) (2021)
-5. Clean Code in Python, 2nd Ed (Mariano Anaya) (2020)
-6. API Design Patterns (JJ Geewax) (2021)
 
 ### Clean Code
 1. Five lines of code (Christian Clausen) (2021)
