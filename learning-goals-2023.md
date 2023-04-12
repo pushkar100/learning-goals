@@ -63,7 +63,7 @@
 3. Redis in Action (Josiah L Carlson) (2013)
 
 ### NodeJS
-1. a
+1. Node.js Web Development - Fifth Edition (David Herron) (2020)
 2. NodeJS Design Patterns, 2nd Ed (Mario Casciaro) (2016) - Note: Newer edition available
 
 ## Courses
