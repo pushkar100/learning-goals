@@ -25,6 +25,7 @@
     + [Interview Prep](#interview-prep)
     + [Rust](#rust)
     + [Miscellaneous](#miscellaneous)
+  * [Next](#next) 
 
 ## Books
 
@@ -133,4 +134,10 @@
 ### Miscellaneous
 1. Feature Toggles - Why and How to Add to Your Software : [Youtube Video](https://www.youtube.com/watch?v=-yHZ9uLVSp4&ab_channel=freeCodeCamp.org) (2 hours)
 2. What are JSON Web Tokens? JWT Auth Explained : [Youtube Video](https://www.youtube.com/watch?v=x5gLL8-M9Fo&t=2610s&ab_channel=freeCodeCamp.org) (2 hours)
+
+---
+
+## Next
+
+1. Cryptography (Especially implementing it in NodeJS (JavaScript) and Python)
 
