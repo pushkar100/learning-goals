@@ -9,6 +9,7 @@
     + [Python Web Applications](#python-web-applications)
     + [Clean Code](#clean-code)
     + [Database](#database)
+    + [NodeJS](#nodejs)
   * [Courses](#courses)
     + [MOOCs](#moocs)
       - [Meta Back-End Developer Professional Certificate](#meta-back-end-developer-professional-certificate)
@@ -60,6 +61,10 @@
 1. Head First SQL (Lynn Beighley) (2007)
 2. No SQL Distilled (Pramod JS, Martin Fowler) (2013)
 3. Redis in Action (Josiah L Carlson) (2013)
+
+### NodeJS
+1. a
+2. NodeJS Design Patterns, 2nd Ed (Mario Casciaro) (2016) - Note: Newer edition available
 
 ## Courses
 
