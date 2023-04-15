@@ -53,6 +53,7 @@
 2. Automate the Boring Stuff with Python, 2nd Ed (Al Sweigart) (2020)
 3. Web Development with Django (Ben Shaw, Saurabh Bhadwar) (2021)
 4. Python Microservices Development, 2nd Ed (Simon Fraser, Tarek Ziade) (2021)
+5. Clean Code in Python (Mariano Anaya) (2018)
 
 ### Clean Code
 1. Five lines of code (Christian Clausen) (2021)
