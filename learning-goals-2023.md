@@ -49,7 +49,7 @@
 2. Full-Stack Web Development with GraphQL & React, 2nd Ed (Sebastian Grebe) (2021)
 
 ### Python Web Applications
-1. Python Crash Course (Eric Mathes) (2016) 
+1. ✅ Python Crash Course (Eric Mathes) (2016) 
 2. Automate the Boring Stuff with Python, 2nd Ed (Al Sweigart) (2020)
 3. Web Development with Django (Ben Shaw, Saurabh Bhadwar) (2021)
 4. Python Microservices Development, 2nd Ed (Simon Fraser, Tarek Ziade) (2021)
