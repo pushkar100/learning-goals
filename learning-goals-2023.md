@@ -25,6 +25,11 @@
     + [Interview Prep](#interview-prep)
     + [Rust](#rust)
     + [Miscellaneous](#miscellaneous)
+  * Chess
+    + [Checkmates](#checkmates)
+    + [Tactics](#tactics)
+    + [Principles](#principles)
+    + [Endgames](#endgames)
   * [Next](#next) 
 
 ## Books
@@ -136,6 +141,30 @@
 ### Miscellaneous
 1. Feature Toggles - Why and How to Add to Your Software : [Youtube Video](https://www.youtube.com/watch?v=-yHZ9uLVSp4&ab_channel=freeCodeCamp.org) (2 hours)
 2. What are JSON Web Tokens? JWT Auth Explained : [Youtube Video](https://www.youtube.com/watch?v=x5gLL8-M9Fo&t=2610s&ab_channel=freeCodeCamp.org) (2 hours)
+
+---
+
+## Chess
+
+### Checkmates
+
+1. 1001 Deadly Checkmates: [Chessable course](https://www.chessable.com/course/49690/)
+
+### Tactics
+
+1. Tactics Time 1: [Chessable course](https://www.chessable.com/course/21108/)
+2. Tactics Time 2: [Chessable course](https://www.chessable.com/course/24008/)
+
+### Principles
+
+1. Chess Principles Reloaded - Center: [Chessable course](https://www.chessable.com/course/39556/)
+2. Chess Principles Reloaded - Development: [Chessable course](https://www.chessable.com/course/50567/)
+3. Chess Principles Reloaded - King Safety: [Chessable course](https://www.chessable.com/course/63466/)
+
+### Endgames
+
+1. Endgame Bootcamp with IM John Bartholomew: [Chessable course](https://www.chessable.com/course/33597/)
+2. 100 Endgames You Must KnowL [Chessable course](https://www.chessable.com/course/5193/)
 
 ---
 
