@@ -25,7 +25,7 @@
     + [Interview Prep](#interview-prep)
     + [Rust](#rust)
     + [Miscellaneous](#miscellaneous)
-  * Chess
+  * [Chess](#chess)
     + [Checkmates](#checkmates)
     + [Tactics](#tactics)
     + [Principles](#principles)
