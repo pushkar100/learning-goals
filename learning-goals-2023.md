@@ -155,12 +155,15 @@
 
 1. Tactics Time 1: [Chessable course](https://www.chessable.com/course/21108/)
 2. Tactics Time 2: [Chessable course](https://www.chessable.com/course/24008/)
+3. Understanding chess tactics | How to calculate tactics well - Mikhaylo [Udemy course](https://www.udemy.com/course/understanding-chess-tactics/)
 
 ### Principles
 
 1. Chess Principles Reloaded - Center: [Chessable course](https://www.chessable.com/course/39556/)
 2. Chess Principles Reloaded - Development: [Chessable course](https://www.chessable.com/course/50567/)
 3. Chess Principles Reloaded - King Safety: [Chessable course](https://www.chessable.com/course/63466/)
+4. Understanding chess openings | How to play ANY opening well [Udemy](https://www.udemy.com/course/understanding-chess-openings-how-to-play-any-opening-well/)
+5. Understanding chess principles | 37 vital chess principles - Mikhaylo [Udemy](https://www.udemy.com/course/understanding-chess-principles-37-vital-chess-principles/)
 
 ### Endgames
 
@@ -170,9 +173,10 @@
 ### Thought process
 
 1. How to Reassess Your Chess - Silman - 4th Ed (Book)
-2. Chess fundamentals - John Bartholomew ([Youtube playlist](https://www.youtube.com/playlist?list=PLl9uuRYQ-6MBwqkmwT42l1fI7Z0bYuwwO))
-3. Climbing the rating ladder - John Bartholomew ([Youtube playlist](https://www.youtube.com/playlist?list=PLl9uuRYQ-6MCBnhtCk_bTZsD8GxeWP6BV))
-4. Amateur's mind - Andras Toth ([Youtube playlist](https://www.youtube.com/playlist?list=PL4WTyEhy_sF5wQ8o7O2X8WyPdrIIA4asC))
+2. Chess fundamentals - John Bartholomew [Youtube playlist](https://www.youtube.com/playlist?list=PLl9uuRYQ-6MBwqkmwT42l1fI7Z0bYuwwO)
+3. Climbing the rating ladder - John Bartholomew [Youtube playlist](https://www.youtube.com/playlist?list=PLl9uuRYQ-6MCBnhtCk_bTZsD8GxeWP6BV)
+4. Amateur's mind - Andras Toth [Youtube playlist](https://www.youtube.com/playlist?list=PL4WTyEhy_sF5wQ8o7O2X8WyPdrIIA4asC)
+5. Understanding chess middlegame - Mikhalyo [Udemy](https://www.udemy.com/course/understanding-chess-middlegame/)
 
 ---
 
