@@ -165,7 +165,7 @@
 ### Endgames
 
 1. Endgame Bootcamp with IM John Bartholomew: [Chessable course](https://www.chessable.com/course/33597/)
-2. 100 Endgames You Must KnowL [Chessable course](https://www.chessable.com/course/5193/)
+2. 100 Endgames You Must Know [Chessable course](https://www.chessable.com/course/5193/)
 
 ### Thought process
 
