@@ -30,6 +30,7 @@
     + [Tactics](#tactics)
     + [Principles](#principles)
     + [Endgames](#endgames)
+    + [Thought process](#thought-process)
   * [Next](#next) 
 
 ## Books
@@ -165,6 +166,13 @@
 
 1. Endgame Bootcamp with IM John Bartholomew: [Chessable course](https://www.chessable.com/course/33597/)
 2. 100 Endgames You Must KnowL [Chessable course](https://www.chessable.com/course/5193/)
+
+### Thought process
+
+1. How to Reassess Your Chess - Silman - 4th Ed (Book)
+2. Chess fundamentals - John Bartholomew ([Youtube playlist](https://www.youtube.com/playlist?list=PLl9uuRYQ-6MBwqkmwT42l1fI7Z0bYuwwO))
+3. Climbing the rating ladder - John Bartholomew ([Youtube playlist](https://www.youtube.com/playlist?list=PLl9uuRYQ-6MCBnhtCk_bTZsD8GxeWP6BV))
+4. Amateur's mind - Andras Toth ([Youtube playlist](https://www.youtube.com/playlist?list=PL4WTyEhy_sF5wQ8o7O2X8WyPdrIIA4asC))
 
 ---
 
