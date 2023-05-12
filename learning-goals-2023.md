@@ -4,7 +4,9 @@
   * [Books](#books)
     + [Amazon Web Services](#amazon-web-services)
     + [Web Security](#web-security)
+    + [JavaScript](#javascript)
     + [Frontend](#frontend)
+    + [React](#react)
     + [GraphQL](#graphql)
     + [Python Web Applications](#python-web-applications)
     + [Clean Code](#clean-code)
@@ -43,12 +45,18 @@
 2. Web Application Security (Andrew Hoffman) (2020)
 3. [OWASP Cheatsheet - A series of succinct articles on web security](https://cheatsheetseries.owasp.org/): See "Cheatsheets" section
 
+### JavaScript 
+1. JavaScript: The Definitive Guide, 7th Ed (David Flanagan)
+2. Rediscovering JavaScript: Master ES6, ES7 and ES8 (Venkat Subramaniam) () [Drive link](https://drive.google.com/file/d/1BO0ZE08W9nDsR0T6H-YtgO7UmM930dL6/view?usp=share_link)
+3. Modern Asynchronous JavaScript (Faraz K Kelhini) (2021) [Drive link](https://drive.google.com/file/d/1PjcqbvgpuVe-hNMDR_z2GBqmAa1pKe-l/view?usp=share_link)
+
 ### Frontend
+1. High Performance Browser Networking (Ilya Grigorik) (2013)
+2. CSS in Depth (Keith J. Grant) (2018)
+
+### React
 1. Mastering React Test-Driven Development, 2nd Ed (Daniel Irvine) (2022)
 2. Micro-state management with React hooks (Daishi Kato) (2022)
-3. CSS in Depth (Keith J. Grant) (2018)
-4. JavaScript: The Definitive Guide, 7th Ed (David Flanagan)
-5. High Performance Browser Networking (Ilya Grigorik) (2013)
 
 ### GraphQL
 1. GraphQL in Action (Samer Buna) (2021)
