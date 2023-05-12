@@ -140,6 +140,8 @@
 5. No BS TS : [Youtube Playlist](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n) (15 mins x 44 videos)
 6. Testing React with Jest and React Testing Library (RTL) : [Udemy course](https://www.udemy.com/course/react-testing-library/) (8 hours)
 7. Learn Cypress in 3 Hours | Full Cypress Tutorial | Cypress Automation | LambdaTest : [Youtube Video](https://www.youtube.com/watch?v=jX3v3N6oN5M&ab_channel=LambdaTest) (3 hours)
+8. Design patterns in TypeScript (Packt) : [Udemy course](https://www.udemy.com/course/design-patterns-in-typescript) (5 hrs)
+2. Typescript the complete developer's guide (Stephen Grider) : [Udemy](https://www.udemy.com/course/typescript-the-complete-developers-guide/) (27.5hrs)
 
 ### Interview Prep
 1. DSA: [Resources to learn Data Structures and Algorithms](https://github.com/pushkar100/notes-data-structure-algorithms/blob/master/18-resources-to-crack-coding-interviews.md)
