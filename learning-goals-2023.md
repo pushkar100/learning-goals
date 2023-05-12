@@ -174,7 +174,7 @@
 1. Chess Principles Reloaded - Center: [Chessable course](https://www.chessable.com/course/39556/)
 2. Chess Principles Reloaded - Development: [Chessable course](https://www.chessable.com/course/50567/)
 3. Chess Principles Reloaded - King Safety: [Chessable course](https://www.chessable.com/course/63466/)
-4. Understanding chess openings | How to play ANY opening well [Udemy](https://www.udemy.com/course/understanding-chess-openings-how-to-play-any-opening-well/)
+4. ✅ Understanding chess openings | How to play ANY opening well [Udemy](https://www.udemy.com/course/understanding-chess-openings-how-to-play-any-opening-well/)
 5. Understanding chess principles | 37 vital chess principles - Mikhaylo [Udemy](https://www.udemy.com/course/understanding-chess-principles-37-vital-chess-principles/)
 
 ### Endgames
