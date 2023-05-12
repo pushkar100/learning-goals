@@ -58,6 +58,7 @@
 ### React
 1. Mastering React Test-Driven Development, 2nd Ed (Daniel Irvine) (2022)
 2. Micro-state management with React hooks (Daishi Kato) (2022)
+3. React Application Architecture for Production (Alan Alickovic) (2022) [Drive link](https://drive.google.com/file/d/1TyPjGYYmmaAD6h9l_rrysA6MfxfKSLwK/view?usp=share_link)
 
 ### GraphQL
 1. GraphQL in Action (Samer Buna) (2021)
