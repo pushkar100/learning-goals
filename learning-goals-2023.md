@@ -19,11 +19,15 @@
     + [AWS](#aws)
       - [AWS Developer learning path](#aws-developer-learning-path)
       - [AWS Architect learning path](#aws-architect-learning-path)
-      - [AWS DevOps learning path](#aws-devops-learning-path)
     + [DevOps](#devops)
     + [Databases](#databases)
     + [Microservices](#microservices)
-    + [Frontend](#frontend-1)
+    + [React](#react-1)
+    + [Web testing](#web-testing)
+    + [TypeScript](#typescript)
+    + [Web security](#web-security)
+    + [Web accessibility](#web-accessibility)
+    + [Web APIs](#web-apis)
     + [Interview Prep](#interview-prep)
     + [Rust](#rust)
     + [Miscellaneous](#miscellaneous)
@@ -33,7 +37,7 @@
     + [Principles](#principles)
     + [Endgames](#endgames)
     + [Thought process](#thought-process)
-  * [Next](#next) 
+  * [Next](#next)
 
 ## Books
 
