@@ -132,16 +132,33 @@
 1. Microservices with Node JS and React : [Udemy course](https://www.udemy.com/course/microservices-with-node-js-and-react/) (54 hours)
 2. Microservice Architecture and System Design with Python & Kubernetes – Full Course : [Youtube Video](https://www.youtube.com/watch?v=hmkF77F9TLw&t=9031s&ab_channel=freeCodeCamp.org) (5 hours)
 
-### Frontend
+### React
 1. Next.js & React - The Complete Guide (incl. Two Paths!) : [Udemy course](https://www.udemy.com/course/nextjs-react-the-complete-guide/) (25 hours)
 2. React State Management – Intermediate JavaScript Course : [Youtube Video](https://www.youtube.com/watch?v=-bEzt5ISACA&t=12s&ab_channel=freeCodeCamp.org) (3 hours)
 3. Create a Design System with CSS - Web Development Course : [Youtube Video](https://www.youtube.com/watch?v=lRaL-8qZ0mM&t=7648s&ab_channel=freeCodeCamp.org) (7 hours)
 4. Microfrontends with React: A Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/microfrontend-course/) (9 hours)
-5. No BS TS : [Youtube Playlist](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n) (15 mins x 44 videos)
-6. Testing React with Jest and React Testing Library (RTL) : [Udemy course](https://www.udemy.com/course/react-testing-library/) (8 hours)
-7. Learn Cypress in 3 Hours | Full Cypress Tutorial | Cypress Automation | LambdaTest : [Youtube Video](https://www.youtube.com/watch?v=jX3v3N6oN5M&ab_channel=LambdaTest) (3 hours)
-8. Design patterns in TypeScript (Packt) : [Udemy course](https://www.udemy.com/course/design-patterns-in-typescript) (5 hrs)
+5. React Performance (Steve Kinney) (2023): [Frontend Masters](https://frontendmasters.com/courses/react-performance/) (4.5hrs)
+
+### Web testing
+1. Testing React with Jest and React Testing Library (RTL) : [Udemy course](https://www.udemy.com/course/react-testing-library/) (8 hours)
+2. Learn Cypress in 3 Hours | Full Cypress Tutorial | Cypress Automation | LambdaTest : [Youtube Video](https://www.youtube.com/watch?v=jX3v3N6oN5M&ab_channel=LambdaTest) (3 hours)
+
+### TypeScript 
+1. Design patterns in TypeScript (Packt) : [Udemy course](https://www.udemy.com/course/design-patterns-in-typescript) (5 hrs)
 2. Typescript the complete developer's guide (Stephen Grider) : [Udemy](https://www.udemy.com/course/typescript-the-complete-developers-guide/) (27.5hrs)
+3. No BS TS : [Youtube Playlist](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n) (15 mins x 44 videos)
+
+### Web security
+1. Web Security (Mike North) (2017): [Frontend Masters](https://frontendmasters.com/courses/web-security/) (4.5hrs)
+
+### Web accessibility
+1. Accessibility in JavaScript Applications (Marcy Sutton) (2019): [Frontend Masters](https://frontendmasters.com/courses/javascript-accessibility/) (4hrs)
+2. Website Accessibility, v2 (Jon Kuperman) (2021): [Frontend Masters](https://frontendmasters.com/courses/accessibility-v2/) (3hrs)
+
+### Web APIs
+1. JavaScript in the Background (Maximiliano Firtman) (2023): [Frontend Masters](https://frontendmasters.com/courses/background-javascript/) (5hrs)
+2. Web Storage APIs (Maximiliano Firtman) (2023): [Frontend Masters](https://frontendmasters.com/courses/web-storage-apis/) (4hrs)
+3. Web Authentication APIs (Maximiliano Firtman) (2023): [Frontend Masters](https://frontendmasters.com/courses/web-auth-apis/) (5hrs)
 
 ### Interview Prep
 1. DSA: [Resources to learn Data Structures and Algorithms](https://github.com/pushkar100/notes-data-structure-algorithms/blob/master/18-resources-to-crack-coding-interviews.md)
