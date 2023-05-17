@@ -58,6 +58,7 @@
 ### Frontend
 1. High Performance Browser Networking (Ilya Grigorik) (2013)
 2. CSS in Depth (Keith J. Grant) (2018)
+3. Build a Frontend Web Framework From Scratch (Book) (Manning MEAP) (2023)
 
 ### React
 1. Mastering React Test-Driven Development, 2nd Ed (Daniel Irvine) (2022)
