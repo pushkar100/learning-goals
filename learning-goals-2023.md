@@ -23,12 +23,14 @@
     + [Databases](#databases)
     + [Microservices](#microservices)
     + [React](#react-1)
-    + [performance](#performance)
+    + [Web Infrastructure](#web-infrastructure)
+    + [Performance](#performance)
     + [Web testing](#web-testing)
     + [TypeScript](#typescript)
     + [Web security](#web-security)
     + [Web accessibility](#web-accessibility)
     + [Web APIs](#web-apis)
+    + [GraphQL](#graphql-1)
     + [Interview Prep](#interview-prep)
     + [Rust](#rust)
     + [Miscellaneous](#miscellaneous)
@@ -144,6 +146,11 @@
 3. Create a Design System with CSS - Web Development Course : [Youtube Video](https://www.youtube.com/watch?v=lRaL-8qZ0mM&t=7648s&ab_channel=freeCodeCamp.org) (7 hours)
 4. Microfrontends with React: A Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/microfrontend-course/) (9 hours) 
 
+### Web Infrastructure
+1. JavaScript and TypeScript Monorepos (Mike North) (2020): [Frontend Masters](https://frontendmasters.com/courses/monorepos/) (3.5hrs)
+2. Complete Intro to Containers (feat. Docker) (Brian Holt) (2020): [Frontend Masters](https://frontendmasters.com/courses/complete-intro-containers/) (6hrs)
+3. Rapid Application Development with Code Generation (Lukas Ruebbelke) (2022): [Frontend Masters](https://frontendmasters.com/courses/rapid-app-dev/) (4hrs)
+
 ### Performance
 1. React Performance (Steve Kinney) (2023): [Frontend Masters](https://frontendmasters.com/courses/react-performance/) (4.5hrs)
 2. JavaScript Performance (Steve Kinney) (2018): [Frontend Masters](https://frontendmasters.com/courses/web-performance/) (5hrs)
@@ -156,6 +163,7 @@
 1. Design patterns in TypeScript (Packt) : [Udemy course](https://www.udemy.com/course/design-patterns-in-typescript) (5 hrs)
 2. Typescript the complete developer's guide (Stephen Grider) : [Udemy](https://www.udemy.com/course/typescript-the-complete-developers-guide/) (27.5hrs)
 3. No BS TS : [Youtube Playlist](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n) (15 mins x 44 videos)
+4. React and TypeScript, v2 (Steve Kinney) (2018): [Frontend Masters](https://frontendmasters.com/courses/react-typescript-v2/) (4.5hrs)
 
 ### Web security
 1. Web Security (Mike North) (2017): [Frontend Masters](https://frontendmasters.com/courses/web-security/) (4.5hrs)
@@ -168,6 +176,12 @@
 1. JavaScript in the Background (Maximiliano Firtman) (2023): [Frontend Masters](https://frontendmasters.com/courses/background-javascript/) (5hrs)
 2. Web Storage APIs (Maximiliano Firtman) (2023): [Frontend Masters](https://frontendmasters.com/courses/web-storage-apis/) (4hrs)
 3. Web Authentication APIs (Maximiliano Firtman) (2023): [Frontend Masters](https://frontendmasters.com/courses/web-auth-apis/) (5hrs)
+
+### GraphQL
+1. Server-Side GraphQL in Node.js (Scoth Moss) (2019): [Frontend Masters](https://frontendmasters.com/courses/server-graphql-nodejs/) (3.5hrs)
+2. Client-Side GraphQL in React (Scott Moss) (2019): [Frontend Masters](https://frontendmasters.com/courses/client-graphql-react/) (3hrs)
+3. Advanced GraphQL, v2 (Scott Moss) (2020): [Frontend Masters](https://frontendmasters.com/courses/advanced-graphql-v2/) (3.5hrs)
+4. Fullstack TypeScript (feat. GraphQL & Node.js) (Mike North) (2022): [Frontend Masters](https://frontendmasters.com/courses/fullstack-typescript/) (3.5hrs)
 
 ### Interview Prep
 1. DSA: [Resources to learn Data Structures and Algorithms](https://github.com/pushkar100/notes-data-structure-algorithms/blob/master/18-resources-to-crack-coding-interviews.md)
