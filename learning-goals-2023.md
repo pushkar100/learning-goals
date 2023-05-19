@@ -23,6 +23,7 @@
     + [Databases](#databases)
     + [Microservices](#microservices)
     + [React](#react-1)
+    + [performance](#performance)
     + [Web testing](#web-testing)
     + [TypeScript](#typescript)
     + [Web security](#web-security)
@@ -141,8 +142,11 @@
 1. Next.js & React - The Complete Guide (incl. Two Paths!) : [Udemy course](https://www.udemy.com/course/nextjs-react-the-complete-guide/) (25 hours)
 2. React State Management – Intermediate JavaScript Course : [Youtube Video](https://www.youtube.com/watch?v=-bEzt5ISACA&t=12s&ab_channel=freeCodeCamp.org) (3 hours)
 3. Create a Design System with CSS - Web Development Course : [Youtube Video](https://www.youtube.com/watch?v=lRaL-8qZ0mM&t=7648s&ab_channel=freeCodeCamp.org) (7 hours)
-4. Microfrontends with React: A Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/microfrontend-course/) (9 hours)
-5. React Performance (Steve Kinney) (2023): [Frontend Masters](https://frontendmasters.com/courses/react-performance/) (4.5hrs)
+4. Microfrontends with React: A Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/microfrontend-course/) (9 hours) 
+
+### Performance
+1. React Performance (Steve Kinney) (2023): [Frontend Masters](https://frontendmasters.com/courses/react-performance/) (4.5hrs)
+2. JavaScript Performance (Steve Kinney) (2018): [Frontend Masters](https://frontendmasters.com/courses/web-performance/) (5hrs)
 
 ### Web testing
 1. Testing React with Jest and React Testing Library (RTL) : [Udemy course](https://www.udemy.com/course/react-testing-library/) (8 hours)
