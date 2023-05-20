@@ -205,9 +205,11 @@
 
 ### Tactics
 
-1. Tactics Time 1: [Chessable course](https://www.chessable.com/course/21108/)
-2. Tactics Time 2: [Chessable course](https://www.chessable.com/course/24008/)
-3. Understanding chess tactics | How to calculate tactics well - Mikhaylo [Udemy course](https://www.udemy.com/course/understanding-chess-tactics/)
+1. **Chess Tacts for Kids (Book)**
+2. **Blokh - Combinational Motifs (Book)**
+3. Tactics Time 1: [Chessable course](https://www.chessable.com/course/21108/)
+4. Tactics Time 2: [Chessable course](https://www.chessable.com/course/24008/)
+5. Understanding chess tactics | How to calculate tactics well - Mikhaylo [Udemy course](https://www.udemy.com/course/understanding-chess-tactics/)
 
 ### Principles
 
@@ -218,6 +220,8 @@
 5. Understanding chess principles | 37 vital chess principles - Mikhaylo [Udemy](https://www.udemy.com/course/understanding-chess-principles-37-vital-chess-principles/)
 
 ### Endgames
+
+_**(DO NOT LEARN ENDGAMES THIS YEAR - MAYBE LATER)**_
 
 1. Endgame Bootcamp with IM John Bartholomew: [Chessable course](https://www.chessable.com/course/33597/)
 2. 100 Endgames You Must Know [Chessable course](https://www.chessable.com/course/5193/)
