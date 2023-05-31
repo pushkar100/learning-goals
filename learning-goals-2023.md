@@ -150,6 +150,8 @@
 1. JavaScript and TypeScript Monorepos (Mike North) (2020): [Frontend Masters](https://frontendmasters.com/courses/monorepos/) (3.5hrs)
 2. Complete Intro to Containers (feat. Docker) (Brian Holt) (2020): [Frontend Masters](https://frontendmasters.com/courses/complete-intro-containers/) (6hrs)
 3. Rapid Application Development with Code Generation (Lukas Ruebbelke) (2022): [Frontend Masters](https://frontendmasters.com/courses/rapid-app-dev/) (4hrs)
+4. Enterprise UI Development (Stever Kinney) (2023): [Frontend Masters](https://frontendmasters.com/courses/enterprise-ui-dev/) (8.5hrs)
+5. Enterprise Design Systems Management (Ben Callahan) (2023): [Frontend Masters](https://frontendmasters.com/courses/design-systems-management/) (4hrs)
 
 ### Performance
 1. React Performance (Steve Kinney) (2023): [Frontend Masters](https://frontendmasters.com/courses/react-performance/) (4.5hrs)
