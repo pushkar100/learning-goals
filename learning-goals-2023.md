@@ -20,6 +20,7 @@
       - [AWS Developer learning path](#aws-developer-learning-path)
       - [AWS Architect learning path](#aws-architect-learning-path)
     + [DevOps](#devops)
+    + [Fullstack](#fullstack)
     + [Databases](#databases)
     + [Microservices](#microservices)
     + [React](#react-1)
@@ -118,23 +119,24 @@
 
 **Linux** | **Jenkins** | **GitHub Actions** | **Docker** | **Kubernetes**
 
-1. The 50 Most Popular Linux & Terminal Commands - Full Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=ZtqBQ68cfJc) (5 hours)
-2. Learn DevOps: CI/CD with Jenkins using Pipelines and Docker : [Udemy course](https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/) (5 hours)
-3. GitHub Actions: The Full Course - Learn by Doing! : [Youtube Playlist 9 hours](https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY)
-4. Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code) : [Youtube Video](https://www.youtube.com/watch?v=iRaai1IBlB0&t=334s&ab_channel=freeCodeCamp.org) (1.5 hours)
-5. Docker Containers and Kubernetes Fundamentals – Full Hands-On Course : [Youtube Video](https://www.youtube.com/watch?v=kTp5xUtcalw&ab_channel=freeCodeCamp.org) (6 hours)
-6. Docker and Kubernetes: The Complete Guide : [Udemy course](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) (22 hours)
+1. Introducing DevOps for Developers (Erik Reinert) (2023): [Frontend masters](https://frontendmasters.com/courses/devops/) (5hrs)
+2. Complete Intro to Containers (feat. Docker) (Brian Holt) (2020): [Frontend masters](https://frontendmasters.com/courses/complete-intro-containers/) (6hrs)
+3. Learn DevOps: CI/CD with Jenkins using Pipelines and Docker : [Udemy course](https://www.udemy.com/course/learn-devops-ci-cd-with-jenkins-using-pipelines-and-docker/) (5 hours)
+4. GitHub Actions: The Full Course - Learn by Doing! : [Youtube Playlist 9 hours](https://www.youtube.com/playlist?list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY)
+5. Docker and Kubernetes: The Complete Guide : [Udemy course](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) (22 hours)
+
+### Fullstack
+1. AWS For Front-End Engineers, v2 (Steve Kinney) (2022): [Frontend masters](https://frontendmasters.com/courses/aws-v2/) (4hrs)
+2. Full Stack for Front-End Engineers, v3 (Jem Young) (2023): [Frontend masters](https://frontendmasters.com/courses/fullstack-v3/) (8hrs)
 
 ### Databases
 1. SQL and PostgreSQL: The Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/sql-and-postgresql/) (22 hours)
-2. MySQL Database - Full Course : [Youtube Video](https://www.youtube.com/watch?v=ER8oKX5myE0&ab_channel=freeCodeCamp.org) (2 hours)
+2. Complete Intro to SQL & PostgreSQL (Brian Holt) (): [Frontend masters](https://frontendmasters.com/courses/sql/) (7.5hrs) 
 3. NoSQL Database Tutorial – Full Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=xh4gy1lbL2k&ab_channel=freeCodeCamp.org) (3 hours)
-4. Apache Cassandra : [Youtube Video](https://www.youtube.com/watch?v=J-cSy5MeMOA&ab_channel=freeCodeCamp.org) (1 hour)
-5. Redis Course - In-Memory Database Tutorial : [Youtube Video](https://www.youtube.com/watch?v=XCsS_NVAa1g&ab_channel=freeCodeCamp.org) (1.5 hours)
-6. AWS DynamoDB: [Youtube Video](https://www.youtube.com/playlist?list=PLvmxnsCyoh65lBHmg9TTPJg3nK4l50oxv) (7 videos, 2.5 hours in total)
-7. UML Diagrams Full Course (Unified Modeling Language) : [Youtube Video](https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=60s&ab_channel=freeCodeCamp.org) (2 hours)
-8. Database Design Course - Learn how to design and plan a database for beginners : [Youtube Video](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=26264s&ab_channel=freeCodeCamp.org) (8 hours)
-9. Database Design : [Youtube Playlist](https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_) (10 mins x 17 videos)
+4. Redis Course - In-Memory Database Tutorial : [Youtube Video](https://www.youtube.com/watch?v=XCsS_NVAa1g&ab_channel=freeCodeCamp.org) (1.5 hours)
+5. AWS DynamoDB: [Youtube Video](https://www.youtube.com/playlist?list=PLvmxnsCyoh65lBHmg9TTPJg3nK4l50oxv) (7 videos, 2.5 hours in total)
+6. UML Diagrams Full Course (Unified Modeling Language) : [Youtube Video](https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=60s&ab_channel=freeCodeCamp.org) (2 hours)
+7. Database Design Course - Learn how to design and plan a database for beginners : [Youtube Video](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=26264s&ab_channel=freeCodeCamp.org) (8 hours)
 
 ### Microservices
 1. Microservices with Node JS and React : [Udemy course](https://www.udemy.com/course/microservices-with-node-js-and-react/) (54 hours)
