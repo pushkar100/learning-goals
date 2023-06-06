@@ -150,10 +150,9 @@
 
 ### Web Infrastructure
 1. JavaScript and TypeScript Monorepos (Mike North) (2020): [Frontend Masters](https://frontendmasters.com/courses/monorepos/) (3.5hrs)
-2. Complete Intro to Containers (feat. Docker) (Brian Holt) (2020): [Frontend Masters](https://frontendmasters.com/courses/complete-intro-containers/) (6hrs)
-3. Rapid Application Development with Code Generation (Lukas Ruebbelke) (2022): [Frontend Masters](https://frontendmasters.com/courses/rapid-app-dev/) (4hrs)
-4. Enterprise UI Development (Stever Kinney) (2023): [Frontend Masters](https://frontendmasters.com/courses/enterprise-ui-dev/) (8.5hrs)
-5. Enterprise Design Systems Management (Ben Callahan) (2023): [Frontend Masters](https://frontendmasters.com/courses/design-systems-management/) (4hrs)
+2. Rapid Application Development with Code Generation (Lukas Ruebbelke) (2022): [Frontend Masters](https://frontendmasters.com/courses/rapid-app-dev/) (4hrs)
+3. Enterprise UI Development (Stever Kinney) (2023): [Frontend Masters](https://frontendmasters.com/courses/enterprise-ui-dev/) (8.5hrs)
+4. Enterprise Design Systems Management (Ben Callahan) (2023): [Frontend Masters](https://frontendmasters.com/courses/design-systems-management/) (4hrs)
 
 ### Performance
 1. React Performance (Steve Kinney) (2023): [Frontend Masters](https://frontendmasters.com/courses/react-performance/) (4.5hrs)
@@ -181,6 +180,8 @@
 1. JavaScript in the Background (Maximiliano Firtman) (2023): [Frontend Masters](https://frontendmasters.com/courses/background-javascript/) (5hrs)
 2. Web Storage APIs (Maximiliano Firtman) (2023): [Frontend Masters](https://frontendmasters.com/courses/web-storage-apis/) (4hrs)
 3. Web Authentication APIs (Maximiliano Firtman) (2023): [Frontend Masters](https://frontendmasters.com/courses/web-auth-apis/) (5hrs)
+4. Exploring Service Workers (Kyle Simpson) (2019): [Frontend Masters](https://frontendmasters.com/courses/service-workers/) (4hrs)
+5. Complete Intro to Real-Time (Brian Holt) (2021): [Frontend masters](https://frontendmasters.com/courses/realtime/) (3.5hrs)
 
 ### GraphQL
 1. Server-Side GraphQL in Node.js (Scoth Moss) (2019): [Frontend Masters](https://frontendmasters.com/courses/server-graphql-nodejs/) (3.5hrs)
