@@ -128,6 +128,7 @@
 ### Fullstack
 1. AWS For Front-End Engineers, v2 (Steve Kinney) (2022): [Frontend masters](https://frontendmasters.com/courses/aws-v2/) (4hrs)
 2. Full Stack for Front-End Engineers, v3 (Jem Young) (2023): [Frontend masters](https://frontendmasters.com/courses/fullstack-v3/) (8hrs)
+3. Introduction to Serverless Functions (Jason Lengstorf) (2020): [Frontend masters](https://frontendmasters.com/courses/serverless-functions/) (3hrs)
 
 ### Databases
 1. SQL and PostgreSQL: The Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/sql-and-postgresql/) (22 hours)
