@@ -162,6 +162,7 @@
 ### Web testing
 1. Testing React with Jest and React Testing Library (RTL) : [Udemy course](https://www.udemy.com/course/react-testing-library/) (8 hours)
 2. Learn Cypress in 3 Hours | Full Cypress Tutorial | Cypress Automation | LambdaTest : [Youtube Video](https://www.youtube.com/watch?v=jX3v3N6oN5M&ab_channel=LambdaTest) (3 hours)
+3. Testing Web Apps with Cypress (Steve Kinney) (2022): [Frontend masters](https://frontendmasters.com/courses/cypress/) (5hrs)
 
 ### TypeScript 
 1. Design patterns in TypeScript (Packt) : [Udemy course](https://www.udemy.com/course/design-patterns-in-typescript) (5 hrs)
