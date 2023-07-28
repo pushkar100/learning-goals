@@ -58,6 +58,7 @@
 2. Rediscovering JavaScript: Master ES6, ES7 and ES8 (Venkat Subramaniam) [Drive link](https://drive.google.com/file/d/1BO0ZE08W9nDsR0T6H-YtgO7UmM930dL6/view?usp=share_link)
 3. ✅ Modern Asynchronous JavaScript (Faraz K Kelhini) (2021) [Drive link](https://drive.google.com/file/d/1PjcqbvgpuVe-hNMDR_z2GBqmAa1pKe-l/view?usp=share_link)
 4. Learning JavaScript Design Patterns (2nd Ed) (2023) [Drive link](https://drive.google.com/file/d/1xcP4Y4WkCmAJDd5R5jide_be0hpZu7Cq/view?usp=share_link)
+5. Building Micro-Frontends (Luca Mezzalira) (2021)
 
 ### Frontend
 1. High Performance Browser Networking (Ilya Grigorik) (2013)
