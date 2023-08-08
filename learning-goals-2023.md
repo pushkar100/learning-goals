@@ -132,13 +132,12 @@
 3. Introduction to Serverless Functions (Jason Lengstorf) (2020): [Frontend masters](https://frontendmasters.com/courses/serverless-functions/) (3hrs)
 
 ### Databases
-1. SQL and PostgreSQL: The Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/sql-and-postgresql/) (22 hours)
-2. Complete Intro to SQL & PostgreSQL (Brian Holt) (): [Frontend masters](https://frontendmasters.com/courses/sql/) (7.5hrs) 
-3. NoSQL Database Tutorial – Full Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=xh4gy1lbL2k&ab_channel=freeCodeCamp.org) (3 hours)
-4. Redis Course - In-Memory Database Tutorial : [Youtube Video](https://www.youtube.com/watch?v=XCsS_NVAa1g&ab_channel=freeCodeCamp.org) (1.5 hours)
-5. AWS DynamoDB: [Youtube Video](https://www.youtube.com/playlist?list=PLvmxnsCyoh65lBHmg9TTPJg3nK4l50oxv) (7 videos, 2.5 hours in total)
-6. UML Diagrams Full Course (Unified Modeling Language) : [Youtube Video](https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=60s&ab_channel=freeCodeCamp.org) (2 hours)
-7. Database Design Course - Learn how to design and plan a database for beginners : [Youtube Video](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=26264s&ab_channel=freeCodeCamp.org) (8 hours)
+1. SQL and PostgreSQL: The Complete Developer's Guide : [Udemy course](https://www.udemy.com/course/sql-and-postgresql/) (22 hours)=
+2. NoSQL Database Tutorial – Full Course for Beginners : [Youtube Video](https://www.youtube.com/watch?v=xh4gy1lbL2k&ab_channel=freeCodeCamp.org) (3 hours)
+3. Redis Course - In-Memory Database Tutorial : [Youtube Video](https://www.youtube.com/watch?v=XCsS_NVAa1g&ab_channel=freeCodeCamp.org) (1.5 hours)
+4. AWS DynamoDB: [Youtube Video](https://www.youtube.com/playlist?list=PLvmxnsCyoh65lBHmg9TTPJg3nK4l50oxv) (7 videos, 2.5 hours in total)
+5. UML Diagrams Full Course (Unified Modeling Language) : [Youtube Video](https://www.youtube.com/watch?v=WnMQ8HlmeXc&t=60s&ab_channel=freeCodeCamp.org) (2 hours)
+6. Database Design Course - Learn how to design and plan a database for beginners : [Youtube Video](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=26264s&ab_channel=freeCodeCamp.org) (8 hours)
 
 ### Microservices
 1. Microservices with Node JS and React : [Udemy course](https://www.udemy.com/course/microservices-with-node-js-and-react/) (54 hours)
