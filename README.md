@@ -15,7 +15,8 @@
 
 # Frontend
 1. Building Micro-Frontends (Luca Mezzalira) (2021) : Own as a physical book
-2. High Performance Browser Networking (Ilya Grigorik) (2013) : Own as a physical book
+2. [Udemy: Microfrontends with React - A Developer's Guide](https://www.udemy.com/course/microfrontend-course)
+3. High Performance Browser Networking (Ilya Grigorik) (2013) : Own as a physical book
 
 # Clean Code and Best Practices
 1. Refactoring, 2nd Ed (2019) (Martin Fowler) : Own as a physical book / Kindle e-book
@@ -50,4 +51,8 @@
 
 # Mobile Development with Java and Kotlin
 1. [Udemy: Complete Android 10 Developer Course - Teaches Java & Kotlin](https://www.udemy.com/course/the-complete-android-10-developer-course-mastering-android)
+2. [Udemy: The Complete React Native and redux Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
+
+# Microservices
+1. [Udemy: Microservices with NodeJS and React](https://www.udemy.com/course/microservices-with-node-js-and-react) : Covers NodeJS, Docker, K8S, TypeScript, etc.
 
