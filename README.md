@@ -26,6 +26,7 @@
 2. Rediscovering JavaScript: Master ES6, ES7 and ES8 (Venkat Subramaniam) : [Drive link](https://drive.google.com/file/d/1BO0ZE08W9nDsR0T6H-YtgO7UmM930dL6/view?usp=share_link)
 3. Modern Asynchronous JavaScript (Faraz K Kelhini) (2021) : [Drive link](https://drive.google.com/file/d/1PjcqbvgpuVe-hNMDR_z2GBqmAa1pKe-l/view?usp=share_link)
 4. TypeScript Cookbook : Own as a physical book
+5. [My Notes on JavaScript](https://github.com/pushkar100/notes-javascript)
 
 # Frontend
 1. Building Micro-Frontends (Luca Mezzalira) (2021) : Own as a physical book
@@ -36,10 +37,13 @@
 1. Refactoring, 2nd Ed (2019) (Martin Fowler) : Own as a physical book / Kindle e-book
 2. Learning JavaScript Design Patterns, 2nd Ed (2023) : Own as a physical book
 3. Code Reviews in Tech: The Missing Guide (Grace Huang) : Own as Kindle e-book
+4. Good Code, Bad Code : Own as a physical book
+5. [My Notes On Clean Coding](https://github.com/pushkar100/notes-clean-code-architecture)
 
 # React
 1. Micro-state management with React hooks (Daishi Kato) : Own as Kindle e-book
 2. React 19 Crash Course : Own as Kindle e-book
+3. [My Notes on React](https://github.com/pushkar100/notes-react)
 
 # NodeJS
 1. NodeJS Cookbook : Own as a physical book
@@ -55,7 +59,7 @@
 2. No SQL Distilled (Pramod JS, Martin Fowler) (2013) : Own as a physical book
 
 # Python Web Applications
-1. My Python Notes on Github [Github: notes-python](https://github.com/pushkar100/notes-python)
+1. [My Python Notes](https://github.com/pushkar100/notes-python)
 3. [Udemy course: Web Development with Django](https://www.udemy.com/course/python-django-the-practical-guide/)
 
 # Architecture
