@@ -1,6 +1,5 @@
 # 2025 Learning Goals
 
-- [2025 Learning Goals](#2025-learning-goals)
 - [DSA](#dsa)
 - [Web Security](#web-security)
 - [JavaScript and TypeScript](#javascript-and-typescript)
