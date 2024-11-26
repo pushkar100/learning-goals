@@ -63,7 +63,7 @@
 2. Become an Awesome Software Architect : Own as a physical book
 3. Understanding Distributed Systems (Roberto Vitillo) : Own as Kindle e-book
 
-# Mobile Development with Java and Kotlin
+# Mobile Development
 1. [Udemy: Complete Android 10 Developer Course - Teaches Java & Kotlin](https://www.udemy.com/course/the-complete-android-10-developer-course-mastering-android)
 2. [Udemy: The Complete React Native and redux Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
 
