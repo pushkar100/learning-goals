@@ -1,5 +1,20 @@
 # 2025 Learning Goals
 
+- [2025 Learning Goals](#2025-learning-goals)
+- [DSA](#dsa)
+- [Web Security](#web-security)
+- [JavaScript and TypeScript](#javascript-and-typescript)
+- [Frontend](#frontend)
+- [Clean Code and Best Practices](#clean-code-and-best-practices)
+- [React](#react)
+- [NodeJS](#nodejs)
+- [Testing](#testing)
+- [Databases](#databases)
+- [Python Web Applications](#python-web-applications)
+- [Architecture](#architecture)
+- [Mobile Development with Java and Kotlin](#mobile-development-with-java-and-kotlin)
+- [Microservices](#microservices)
+
 # DSA
 1. Handbook for Coding Interviews on Graphs (K Patil) : Own as Kindle e-book
 2. Recurision and Dynamic Programming : Uplevel Your Coding Interview (Jack Wong) : Own as Kindle e-book
