@@ -49,9 +49,10 @@
 2. React 19 Crash Course : Own as Kindle e-book
 3. [My Notes on React](https://github.com/pushkar100/notes-react)
 4. Videos on Zustand: [Youtube Video 1 (20mins)](https://www.youtube.com/watch?v=_ngCLZ5Iz-0), [Youtube Video 2 (20mins)](https://www.youtube.com/watch?v=KCr-UNsM3vA)
-5. Videos on Jotai: [Youtube Video 1 (17mins](https://www.youtube.com/watch?v=eVfw4pRDUIY) [Youtube Video 2 (25mins)](https://www.youtube.com/watch?v=0uM16sAWm_Q)
+5. Videos on Jotai: [Youtube Video 1 (17mins](https://www.youtube.com/watch?v=eVfw4pRDUIY), [Youtube Video 2 (25mins)](https://www.youtube.com/watch?v=0uM16sAWm_Q)
 6. Comparing Redux with Alternatives : [Youtube Video](https://www.youtube.com/watch?v=0uM16sAWm_Q&pp=ygUFam90YWk%3D)
-7. Drawbacks of React Context: [Youtube Video 1](https://www.youtube.com/watch?v=16yMmAJSGek&t=2s) [Youtube Video 2](https://www.youtube.com/watch?v=I7dwJxGuGYQ) [Youtube Video 3](https://www.youtube.com/watch?v=FpITaXEOJZ0&t=1s)
+7. Drawbacks of React Context: [Youtube Video 1](https://www.youtube.com/watch?v=16yMmAJSGek&t=2s), [Youtube Video 2](https://www.youtube.com/watch?v=I7dwJxGuGYQ), [Youtube Video 3](https://www.youtube.com/watch?v=FpITaXEOJZ0&t=1s)
+8. React Server Components (RSC): [Youtube Video 1](https://www.youtube.com/watch?v=VIwWgV3Lc6s), [Youtube Video 2](https://www.youtube.com/watch?v=bugO1tmSDpM), [Youtube Video 3](https://www.youtube.com/watch?v=jEJEFAc8tSI&t=5s)
 
 # NodeJS
 1. NodeJS Cookbook : Own as a physical book
