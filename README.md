@@ -1,9 +1,9 @@
 # 2025 Learning Goals
 
 - [DSA](#dsa)
-- [Web Concepts and Security](#web-security)
+- [Web Concepts and Security](#web-concepts-and-security)
 - [JavaScript and TypeScript](#javascript-and-typescript)
-- [Frontend](#frontend)
+- [Frontend and Browser](#frontend-and-browser)
 - [Clean Code and Best Practices](#clean-code-and-best-practices)
 - [React](#react)
 - [NodeJS](#nodejs)
@@ -28,18 +28,21 @@
 2. High Performance Browser Networking (Ilya Grigorik) (2013) : Own as a physical book
 3. HTTP 1 vs 2 vs 3: [Youtube Video](https://www.youtube.com/watch?v=UMwQjFzTQXw)
 4. How do secure connections work? SSL, TLS, HTTPS: [Youtube Video](https://www.youtube.com/watch?v=j9QmMEWmcfo)
-5. Client-Server intermediaries:
+5. Different types of network attacks (SQL injection, XSS, CSRF): [Youtube Playlist](https://www.youtube.com/playlist?list=PLTgRMOcmRb3OYTeKsyLDYyapFROKYvXEz)
+6. Client-Server intermediaries:
     1. How the Internet works: [Youtube Video 1](https://www.youtube.com/watch?v=sMHzfigUxz4), [Youtube Video 2](https://www.youtube.com/watch?v=NiQTs9DbtW4), [Youtube Video 3](https://www.youtube.com/watch?v=AlkDbnbv7dk)
     2. How DNS works: [Youtube Video](https://www.youtube.com/watch?v=27r4Bzuj5NQ)
     3. Proxy vs Reverse Proxy: [Youtube Video](https://www.youtube.com/watch?v=RqfaTIWc3LQ)
     4. What is an API Gateway?: [Youtube Video](https://www.youtube.com/watch?v=6ULyxuHKxg8)
     5. Understanding CDNs: [Youtube Video](https://www.youtube.com/watch?v=RI9np1LWzqw)
-6. APIs:
+7. APIs:
     1. Good vs Bad APIs: [Youtube Video](https://www.youtube.com/watch?v=_gQaygjm_hg)
     2. API Pagination: [Youtube Video](https://www.youtube.com/watch?v=14K_a2kKTxU)
     3. Understanding gRPC: [Youtube Video](https://www.youtube.com/watch?v=gnchfOojMk4)
     4. What is GraphQL?: [Youtube Video](https://www.youtube.com/watch?v=yWzKJPw_VzM&t=11s)
-7. Authorization & Authentication:
+    5. Tips for API security: [Youtube Video](https://www.youtube.com/watch?v=6WZ6S-qmtqY)
+    6. BFF vs GraphQL?: [Youtube Video 1](https://www.youtube.com/watch?v=oFu2H4zyM-M&t=1s), [Youtube Video 2](https://www.youtube.com/watch?v=SSo-z16wEnc&t=2s)
+8. Authorization & Authentication:
     1. Sessions vs JWTs : [Youtube Video](https://www.youtube.com/watch?v=fyTxwIa-1U0), [Youtube Video 2](https://www.youtube.com/watch?v=P2CPd9ynFLg), [My Notes on JWT](https://github.com/pushkar100/notes-apis-services-auth-security/blob/master/JSON-web-tokens.md)
     2. OAuth2.0 explained: [Youtube Video](https://www.youtube.com/watch?v=ZV5yTm4pT8g)
 
@@ -50,9 +53,10 @@
 4. TypeScript Cookbook : Own as a physical book
 5. [My Notes on JavaScript](https://github.com/pushkar100/notes-javascript)
 
-# Frontend
+# Frontend and Browser
 1. Building Micro-Frontends (Luca Mezzalira) (2021) : Own as a physical book
 2. [Udemy: Microfrontends with React - A Developer's Guide](https://www.udemy.com/course/microfrontend-course)
+3. Storage options on the Browser (LocalStorage, SessionStorage, Cookies, IndexedDB): [Youtube Video 1](https://www.youtube.com/watch?v=GihQAC1I39Q), [Youtube Video 2](https://www.youtube.com/watch?v=-AzFQN9Vp7k)
 
 # Clean Code and Best Practices
 1. Refactoring, 2nd Ed (2019) (Martin Fowler) : Own as a physical book / Kindle e-book
