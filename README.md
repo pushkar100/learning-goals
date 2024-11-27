@@ -53,9 +53,10 @@
 6. Comparing Redux with Alternatives : [Youtube Video](https://www.youtube.com/watch?v=0uM16sAWm_Q&pp=ygUFam90YWk%3D)
 7. Drawbacks of React Context: [Youtube Video 1](https://www.youtube.com/watch?v=16yMmAJSGek&t=2s), [Youtube Video 2](https://www.youtube.com/watch?v=I7dwJxGuGYQ), [Youtube Video 3](https://www.youtube.com/watch?v=FpITaXEOJZ0&t=1s)
 8. React Server Components (RSC): [Youtube Video 1](https://www.youtube.com/watch?v=VIwWgV3Lc6s), [Youtube Video 2](https://www.youtube.com/watch?v=bugO1tmSDpM), [Youtube Video 3](https://www.youtube.com/watch?v=jEJEFAc8tSI&t=5s)
-9. React optimization techniques: [Youtube Video 1](https://www.youtube.com/watch?v=laf64Ms0yV4), [Youtube Video 2](https://www.youtube.com/watch?v=tbBILjDgXb4), [Youtube Video 3](https://www.youtube.com/watch?v=CaShN6mCJB0)
+9. React optimization techniques: [Youtube Video 1](https://www.youtube.com/watch?v=laf64Ms0yV4), [Youtube Video 2](https://www.youtube.com/watch?v=tbBILjDgXb4), [Youtube Video 3](https://www.youtube.com/watch?v=CaShN6mCJB0), [Youtube Video 4](https://www.youtube.com/watch?v=-yIsQPp31L0)
 10. Understanding the React component lifecycle: [Youtube Video 1](https://www.youtube.com/watch?v=zvM_FUVcB-0&t=28s), [Youtube Video 2](https://www.youtube.com/watch?v=Zz9pLellSQA)
-11. [Official React Docs](https://react.dev/reference/react)
+11. React internals: [Youtube Video 1](https://www.youtube.com/watch?v=7YhdqIR2Yzo&t=35s), [Youtube Video 2](https://www.youtube.com/watch?v=N9cFPtkqtWI)
+12. [Official React Docs](https://react.dev/reference/react)
 
 # NodeJS
 1. NodeJS Cookbook : Own as a physical book
