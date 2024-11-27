@@ -18,6 +18,10 @@
 1. Handbook for Coding Interviews on Graphs (K Patil) : Own as Kindle e-book
 2. Recurision and Dynamic Programming : Uplevel Your Coding Interview (Jack Wong) : Own as Kindle e-book
 
+# System Design
+1. System Design Interview - An Insider's Guide Volume 1 : Own as a physical book
+2. System Design Interview - An Insider's Guide Volume 2 : Own as a physical book
+
 # Web Security
 1. Web Application Security (Andrew Hoffman) (2020)
 
@@ -44,6 +48,10 @@
 1. Micro-state management with React hooks (Daishi Kato) : Own as Kindle e-book
 2. React 19 Crash Course : Own as Kindle e-book
 3. [My Notes on React](https://github.com/pushkar100/notes-react)
+4. Videos on Zustand: [Youtube Video 1 (20mins)](https://www.youtube.com/watch?v=_ngCLZ5Iz-0), [Youtube Video 2 (20mins)](https://www.youtube.com/watch?v=KCr-UNsM3vA)
+5. Videos on Jotai: [Youtube Video 1 (17mins](https://www.youtube.com/watch?v=eVfw4pRDUIY) [Youtube Video 2 (25mins)](https://www.youtube.com/watch?v=0uM16sAWm_Q)
+6. Comparing Redux with Alternatives : [Youtube Video](https://www.youtube.com/watch?v=0uM16sAWm_Q&pp=ygUFam90YWk%3D)
+7. Drawbacks of React Context: [Youtube Video 1](https://www.youtube.com/watch?v=16yMmAJSGek&t=2s) [Youtube Video 2](https://www.youtube.com/watch?v=I7dwJxGuGYQ) [Youtube Video 3](https://www.youtube.com/watch?v=FpITaXEOJZ0&t=1s)
 
 # NodeJS
 1. NodeJS Cookbook : Own as a physical book
