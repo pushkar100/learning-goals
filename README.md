@@ -16,7 +16,7 @@
 
 # DSA
 1. Handbook for Coding Interviews on Graphs (K Patil) : Own as Kindle e-book
-2. Recurision and Dynamic Programming : Uplevel Your Coding Interview (Jack Wong) : Own as Kindle e-book
+2. Recursion and Dynamic Programming : Uplevel Your Coding Interview (Jack Wong) : Own as Kindle e-book
 
 # System Design
 1. How to crack any System Design interview: [Youtube Video (8min)](https://www.youtube.com/watch?v=o-k7h2G3Gco)
