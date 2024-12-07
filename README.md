@@ -79,10 +79,12 @@
 11. Drawbacks of React Context: [Youtube Video 1](https://www.youtube.com/watch?v=16yMmAJSGek&t=2s), [Youtube Video 2](https://www.youtube.com/watch?v=I7dwJxGuGYQ), [Youtube Video 3](https://www.youtube.com/watch?v=FpITaXEOJZ0&t=1s), [Youtube Video 4](https://www.youtube.com/watch?v=MSpDAuDPqNw), [Youtube Video 5](https://www.youtube.com/watch?v=NMNo8Rz6ARg), [Youtube Video 6](https://www.youtube.com/watch?v=ZKlXqrcBx88), [Youtube Video 7](https://www.youtube.com/watch?v=5gUHfe-ETuo), [Youtube Video 8](https://www.youtube.com/shorts/PmZCIPeBRig), [Youtube Video 9](https://www.youtube.com/watch?v=OvM4hIxrqAw), [Youtube Video 10](https://www.youtube.com/watch?v=D66ej8uVeVU), [Youtube Video 11](https://www.youtube.com/watch?v=_HdrLsyAdJg)
 12. React Server Components (RSC): [Youtube Video 1](https://www.youtube.com/watch?v=VIwWgV3Lc6s), [Youtube Video 2](https://www.youtube.com/watch?v=bugO1tmSDpM), [Youtube Video 3](https://www.youtube.com/watch?v=jEJEFAc8tSI&t=5s), [Youtube Video 4](https://www.youtube.com/watch?v=rGPpQdbDbwo&t=250s), [Youtube Video 5](https://www.youtube.com/watch?v=Qdkg_mrniLk), [Youtube Video 6](https://www.youtube.com/watch?v=WeyDovgSen4), [Youtube Video 7](https://www.youtube.com/watch?v=0njVU3TRUtk)
 13. React optimization techniques: [Youtube Video 1](https://www.youtube.com/watch?v=laf64Ms0yV4), [Youtube Video 2](https://www.youtube.com/watch?v=tbBILjDgXb4), [Youtube Video 3](https://www.youtube.com/watch?v=CaShN6mCJB0), [Youtube Video 4](https://www.youtube.com/watch?v=-yIsQPp31L0)
-14. Understanding the React component lifecycle: [Youtube Video 1](https://www.youtube.com/watch?v=zvM_FUVcB-0&t=28s), [Youtube Video 2](https://www.youtube.com/watch?v=Zz9pLellSQA)
-15. React internals: [Youtube Video 1](https://www.youtube.com/watch?v=7YhdqIR2Yzo&t=35s), [Youtube Video 2](https://www.youtube.com/watch?v=N9cFPtkqtWI)
-16. React Query:  [Youtube Video 1](https://www.youtube.com/watch?v=r8Dg0KVnfMA), [Youtube Video 2](https://www.youtube.com/watch?v=lVLz_ASqAio), [Youtube Video 3](https://www.youtube.com/watch?v=xIflplz925Y)
-17. [Official React Docs](https://react.dev/reference/react)
+14. React Suspense & Error Boundary: [Youtube Video 1](https://www.youtube.com/watch?v=8YQXeqgSSeM), [Youtube Video 2](https://www.youtube.com/watch?v=_FuDMEgIy7I), [Youtube Video 3](https://www.youtube.com/watch?v=0LpLxEUephc)
+15. Lazy loading & code splitting: [Youtube Video 1](https://www.youtube.com/watch?v=nS5qbSJLGx8), [Youtube Video 2](https://www.youtube.com/watch?v=IpuOnfjY82E)
+16. Understanding the React component lifecycle: [Youtube Video 1](https://www.youtube.com/watch?v=zvM_FUVcB-0&t=28s), [Youtube Video 2](https://www.youtube.com/watch?v=Zz9pLellSQA)
+17. React internals: [Youtube Video 1](https://www.youtube.com/watch?v=7YhdqIR2Yzo&t=35s), [Youtube Video 2](https://www.youtube.com/watch?v=N9cFPtkqtWI)
+18. React Query:  [Youtube Video 1](https://www.youtube.com/watch?v=r8Dg0KVnfMA), [Youtube Video 2](https://www.youtube.com/watch?v=lVLz_ASqAio), [Youtube Video 3](https://www.youtube.com/watch?v=xIflplz925Y)
+19. [Official React Docs](https://react.dev/reference/react)
 
 # NodeJS
 1. NodeJS Cookbook : Own as a physical book
