@@ -84,7 +84,9 @@
 16. Understanding the React component lifecycle: [Youtube Video 1](https://www.youtube.com/watch?v=zvM_FUVcB-0&t=28s), [Youtube Video 2](https://www.youtube.com/watch?v=Zz9pLellSQA)
 17. React internals: [Youtube Video 1](https://www.youtube.com/watch?v=7YhdqIR2Yzo&t=35s), [Youtube Video 2](https://www.youtube.com/watch?v=N9cFPtkqtWI)
 18. React Query:  [Youtube Video 1](https://www.youtube.com/watch?v=r8Dg0KVnfMA), [Youtube Video 2](https://www.youtube.com/watch?v=lVLz_ASqAio), [Youtube Video 3](https://www.youtube.com/watch?v=xIflplz925Y)
-19. [Official React Docs](https://react.dev/reference/react)
+19. React Router: [Youtube Video 1](https://www.youtube.com/watch?v=oTIJunBa6MA)
+20. React Hook Form with Zod: [Youtube Video 1](https://www.youtube.com/watch?v=cc_xmawJ8Kg)
+21. [Official React Docs](https://react.dev/reference/react)
 
 # NodeJS
 1. NodeJS Cookbook : Own as a physical book
