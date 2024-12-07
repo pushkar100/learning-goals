@@ -69,7 +69,7 @@
 1. Micro-state management with React hooks (Daishi Kato) : Own as Kindle e-book
 2. React 19 Crash Course : Own as Kindle e-book
 3. [My Notes on React](https://github.com/pushkar100/notes-react)
-4. Videos on useState and useEffect: [Youtube Video 1](https://www.youtube.com/watch?v=-4XpG5_Lj_o), [Youtube Video 2](https://www.youtube.com/watch?v=-yIsQPp31L0), [Youtube Video 3](https://www.youtube.com/watch?v=lStfMBiWROQ), [Youtube Video 4](https://www.youtube.com/watch?v=MFj_S0Nof90), [Youtube Video 5](https://www.youtube.com/watch?v=V1f8MOQiHRw)
+4. Videos on useState and useEffect: [Youtube Video 1](https://www.youtube.com/watch?v=-4XpG5_Lj_o), [Youtube Video 2](https://www.youtube.com/watch?v=-yIsQPp31L0), [Youtube Video 3](https://www.youtube.com/watch?v=lStfMBiWROQ), [Youtube Video 4](https://www.youtube.com/watch?v=MFj_S0Nof90), [Youtube Video 5](https://www.youtube.com/watch?v=V1f8MOQiHRw), [Youtube Video 6](https://www.youtube.com/watch?v=F-0SZ_TicXA), [Youtube Video 7](https://www.youtube.com/watch?v=DOgfV-fQ94k), [Youtube Video 8](https://www.youtube.com/watch?v=cDdGGthGA6M), [Youtube Video 9](https://www.youtube.com/watch?v=GGo3MVBFr1A&t=177s), [Youtube Video 10](https://www.youtube.com/watch?v=O6P86uwfdR0)
 5. Videos on Zustand: [Youtube Video 1](https://www.youtube.com/watch?v=_ngCLZ5Iz-0), [Youtube Video 2](https://www.youtube.com/watch?v=KCr-UNsM3vA)
 6. Videos on Jotai: [Youtube Video 1](https://www.youtube.com/watch?v=eVfw4pRDUIY), [Youtube Video 2](https://www.youtube.com/watch?v=0uM16sAWm_Q)
 7. Comparing Redux with Alternatives : [Youtube Video 1](https://www.youtube.com/watch?v=czptRA4IeCc), [Youtube Video 2](https://www.youtube.com/watch?v=yJeamGjFNqQ)
