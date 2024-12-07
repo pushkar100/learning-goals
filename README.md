@@ -80,7 +80,8 @@
 12. React optimization techniques: [Youtube Video 1](https://www.youtube.com/watch?v=laf64Ms0yV4), [Youtube Video 2](https://www.youtube.com/watch?v=tbBILjDgXb4), [Youtube Video 3](https://www.youtube.com/watch?v=CaShN6mCJB0), [Youtube Video 4](https://www.youtube.com/watch?v=-yIsQPp31L0)
 13. Understanding the React component lifecycle: [Youtube Video 1](https://www.youtube.com/watch?v=zvM_FUVcB-0&t=28s), [Youtube Video 2](https://www.youtube.com/watch?v=Zz9pLellSQA)
 14. React internals: [Youtube Video 1](https://www.youtube.com/watch?v=7YhdqIR2Yzo&t=35s), [Youtube Video 2](https://www.youtube.com/watch?v=N9cFPtkqtWI)
-15. [Official React Docs](https://react.dev/reference/react)
+15. React Query:  [Youtube Video 1](https://www.youtube.com/watch?v=r8Dg0KVnfMA), [Youtube Video 2](https://www.youtube.com/watch?v=lVLz_ASqAio), [Youtube Video 3](https://www.youtube.com/watch?v=xIflplz925Y)
+16. [Official React Docs](https://react.dev/reference/react)
 
 # NodeJS
 1. NodeJS Cookbook : Own as a physical book
