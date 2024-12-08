@@ -68,7 +68,7 @@
 # React
 1. Micro-state management with React hooks (Daishi Kato) : Own as Kindle e-book
 2. React 19 Crash Course : Own as Kindle e-book
-3. React 19 docs & videos: [Youtube Video 1](https://www.youtube.com/watch?v=WvGexufMouA), [Youtube Video 2](https://www.youtube.com/watch?v=WHKvhMKV_-0), [Youtube Video 3](https://www.youtube.com/watch?v=zdNF9FJWJ8o), [Documentation - React 19](https://react.dev/blog/2024/12/05/react-19#new-react-dom-static-apis)
+3. React 19 docs & videos: [Youtube Video 1](https://www.youtube.com/watch?v=WvGexufMouA), [Youtube Video 2](https://www.youtube.com/watch?v=WHKvhMKV_-0), [Youtube Video 3](https://www.youtube.com/watch?v=zdNF9FJWJ8o), [Youtube Video 4](https://www.youtube.com/watch?v=qWPInECvNRo), [Documentation - React 19](https://react.dev/blog/2024/12/05/react-19#new-react-dom-static-apis)
 4. [My Notes on React](https://github.com/pushkar100/notes-react)
 5. Videos on useState and useEffect: [Youtube Video 1](https://www.youtube.com/watch?v=-4XpG5_Lj_o), [Youtube Video 2](https://www.youtube.com/watch?v=-yIsQPp31L0), [Youtube Video 3](https://www.youtube.com/watch?v=lStfMBiWROQ), [Youtube Video 4](https://www.youtube.com/watch?v=MFj_S0Nof90), [Youtube Video 5](https://www.youtube.com/watch?v=V1f8MOQiHRw), [Youtube Video 6](https://www.youtube.com/watch?v=F-0SZ_TicXA), [Youtube Video 7](https://www.youtube.com/watch?v=DOgfV-fQ94k), [Youtube Video 8](https://www.youtube.com/watch?v=cDdGGthGA6M), [Youtube Video 9](https://www.youtube.com/watch?v=GGo3MVBFr1A&t=177s), [Youtube Video 10](https://www.youtube.com/watch?v=O6P86uwfdR0)
 6. Videos on useMemo and useCallback: [Youtube Video 1](https://www.youtube.com/watch?v=vpE9I_eqHdM), [Youtube Video 2](https://www.youtube.com/watch?v=MxIPQZ64x0I), [Youtube Video 3](https://www.youtube.com/watch?v=CSFMLmON5hM), [Youtube Video 4](https://www.youtube.com/watch?v=uojLJFt9SzY), [Youtube Video 5](https://www.youtube.com/watch?v=M8NaTJN8xh4)
@@ -86,7 +86,8 @@
 18. React Query:  [Youtube Video 1](https://www.youtube.com/watch?v=r8Dg0KVnfMA), [Youtube Video 2](https://www.youtube.com/watch?v=lVLz_ASqAio), [Youtube Video 3](https://www.youtube.com/watch?v=xIflplz925Y)
 19. React Router: [Youtube Video 1](https://www.youtube.com/watch?v=oTIJunBa6MA)
 20. React Hook Form with Zod: [Youtube Video 1](https://www.youtube.com/watch?v=cc_xmawJ8Kg)
-21. [Official React Docs](https://react.dev/reference/react)
+21. React best practices: [Youtube Video 1](https://www.youtube.com/watch?v=5r25Y9Vg2P4), [Youtube Video 2](https://www.youtube.com/watch?v=GGo3MVBFr1A&t=178s), [Youtube Video 3](https://www.youtube.com/watch?v=5r4LlVAFrd0), [Youtube Video 4](https://www.youtube.com/watch?v=YgNm3pVnvN0)
+22. [Official React Docs](https://react.dev/reference/react)
 
 # NodeJS
 1. NodeJS Cookbook : Own as a physical book
