@@ -70,7 +70,7 @@
 2. React 19 Crash Course : Own as Kindle e-book
 3. React 19 docs & videos: [Youtube Video 1](https://www.youtube.com/watch?v=WvGexufMouA), [Youtube Video 2](https://www.youtube.com/watch?v=WHKvhMKV_-0), [Youtube Video 3](https://www.youtube.com/watch?v=zdNF9FJWJ8o), [Youtube Video 4](https://www.youtube.com/watch?v=qWPInECvNRo), [Documentation - React 19](https://react.dev/blog/2024/12/05/react-19#new-react-dom-static-apis)
 4. [My Notes on React](https://github.com/pushkar100/notes-react)
-5. Videos on useState and useEffect: [Youtube Video 1](https://www.youtube.com/watch?v=-4XpG5_Lj_o), [Youtube Video 2](https://www.youtube.com/watch?v=-yIsQPp31L0), [Youtube Video 3](https://www.youtube.com/watch?v=lStfMBiWROQ), [Youtube Video 4](https://www.youtube.com/watch?v=MFj_S0Nof90), [Youtube Video 5](https://www.youtube.com/watch?v=V1f8MOQiHRw), [Youtube Video 6](https://www.youtube.com/watch?v=F-0SZ_TicXA), [Youtube Video 7](https://www.youtube.com/watch?v=DOgfV-fQ94k), [Youtube Video 8](https://www.youtube.com/watch?v=cDdGGthGA6M), [Youtube Video 9](https://www.youtube.com/watch?v=GGo3MVBFr1A&t=177s), [Youtube Video 10](https://www.youtube.com/watch?v=O6P86uwfdR0)
+5. Videos on useState and useEffect: [Youtube Video 1](https://www.youtube.com/watch?v=-4XpG5_Lj_o), [Youtube Video 2](https://www.youtube.com/watch?v=-yIsQPp31L0), [Youtube Video 3](https://www.youtube.com/watch?v=lStfMBiWROQ), [Youtube Video 4](https://www.youtube.com/watch?v=MFj_S0Nof90), [Youtube Video 5](https://www.youtube.com/watch?v=V1f8MOQiHRw), [Youtube Video 6](https://www.youtube.com/watch?v=F-0SZ_TicXA), [Youtube Video 7](https://www.youtube.com/watch?v=DOgfV-fQ94k), [Youtube Video 8](https://www.youtube.com/watch?v=cDdGGthGA6M), [Youtube Video 9](https://www.youtube.com/watch?v=GGo3MVBFr1A&t=177s), [Youtube Video 10](https://www.youtube.com/watch?v=O6P86uwfdR0), [Youtube Video 11](https://www.youtube.com/watch?v=j8s01ThR7bQ)
 6. Videos on useMemo and useCallback: [Youtube Video 1](https://www.youtube.com/watch?v=vpE9I_eqHdM), [Youtube Video 2](https://www.youtube.com/watch?v=MxIPQZ64x0I), [Youtube Video 3](https://www.youtube.com/watch?v=CSFMLmON5hM), [Youtube Video 4](https://www.youtube.com/watch?v=uojLJFt9SzY), [Youtube Video 5](https://www.youtube.com/watch?v=M8NaTJN8xh4)
 7. Videos on useRef and forwarding refs: [Youtube Video 1](https://www.youtube.com/watch?v=42BkpGe8oxg), [Youtube Video 2](https://www.youtube.com/watch?v=gLvsc3gjZnc), [Youtube Video 3](https://www.youtube.com/watch?v=gwFfzIaKnAU), [Youtube Video 4](https://www.youtube.com/watch?v=h2aK7H86HxY)
 8. Videos on Zustand: [Youtube Video 1](https://www.youtube.com/watch?v=_ngCLZ5Iz-0), [Youtube Video 2](https://www.youtube.com/watch?v=KCr-UNsM3vA)
@@ -91,7 +91,8 @@
 23. React useDeferredValue hook (React 18): [Youtube Video 1](https://www.youtube.com/watch?v=jCGMedd6IWA)
 24. React `use` hook (React 19): [Youtube Video 1](https://www.youtube.com/watch?v=zdNF9FJWJ8o&t=2s)
 25. React concurrent mode (React 18): [Youtube Video 1](https://www.youtube.com/watch?v=FDEveIuUD4s), [Youtube Video 2](https://www.youtube.com/watch?v=8_ZjNnUqarg), [Youtube Video 3](https://www.youtube.com/watch?v=C-AlTVKgs3Y) , [Youtube Video 4](https://www.youtube.com/watch?v=mECV6nGOqNo)
-26. [Official React Docs](https://react.dev/reference/react)
+26. React strict mode: [Youtube Video 1](https://www.youtube.com/watch?v=XUwzASyHr4Q)
+27. [Official React Docs](https://react.dev/reference/react)
 
 # NodeJS
 1. NodeJS Cookbook : Own as a physical book
