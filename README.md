@@ -78,7 +78,7 @@
 10. Comparing Redux with Alternatives : [Youtube Video 1](https://www.youtube.com/watch?v=czptRA4IeCc), [Youtube Video 2](https://www.youtube.com/watch?v=yJeamGjFNqQ)
 11. Drawbacks of React Context: [Youtube Video 1](https://www.youtube.com/watch?v=16yMmAJSGek&t=2s), [Youtube Video 2](https://www.youtube.com/watch?v=I7dwJxGuGYQ), [Youtube Video 3](https://www.youtube.com/watch?v=FpITaXEOJZ0&t=1s), [Youtube Video 4](https://www.youtube.com/watch?v=MSpDAuDPqNw), [Youtube Video 5](https://www.youtube.com/watch?v=NMNo8Rz6ARg), [Youtube Video 6](https://www.youtube.com/watch?v=ZKlXqrcBx88), [Youtube Video 7](https://www.youtube.com/watch?v=5gUHfe-ETuo), [Youtube Video 8](https://www.youtube.com/shorts/PmZCIPeBRig), [Youtube Video 9](https://www.youtube.com/watch?v=OvM4hIxrqAw), [Youtube Video 10](https://www.youtube.com/watch?v=D66ej8uVeVU), [Youtube Video 11](https://www.youtube.com/watch?v=_HdrLsyAdJg)
 12. React Server Components (RSC): [Youtube Video 1](https://www.youtube.com/watch?v=VIwWgV3Lc6s), [Youtube Video 2](https://www.youtube.com/watch?v=bugO1tmSDpM), [Youtube Video 3](https://www.youtube.com/watch?v=jEJEFAc8tSI&t=5s), [Youtube Video 4](https://www.youtube.com/watch?v=rGPpQdbDbwo&t=250s), [Youtube Video 5](https://www.youtube.com/watch?v=Qdkg_mrniLk), [Youtube Video 6](https://www.youtube.com/watch?v=WeyDovgSen4), [Youtube Video 7](https://www.youtube.com/watch?v=0njVU3TRUtk)
-13. React optimization techniques: [Youtube Video 1](https://www.youtube.com/watch?v=laf64Ms0yV4), [Youtube Video 2](https://www.youtube.com/watch?v=tbBILjDgXb4), [Youtube Video 3](https://www.youtube.com/watch?v=CaShN6mCJB0), [Youtube Video 4](https://www.youtube.com/watch?v=-yIsQPp31L0)
+13. React optimization techniques: [Youtube Video 1](https://www.youtube.com/watch?v=laf64Ms0yV4), [Youtube Video 2](https://www.youtube.com/watch?v=tbBILjDgXb4), [Youtube Video 3](https://www.youtube.com/watch?v=CaShN6mCJB0), [Youtube Video 4](https://www.youtube.com/watch?v=-yIsQPp31L0), [Youtube Video 5](https://www.youtube.com/watch?v=Qwb-Za6cBws&t=13s)
 14. React Suspense & Error Boundary: [Youtube Video 1](https://www.youtube.com/watch?v=8YQXeqgSSeM), [Youtube Video 2](https://www.youtube.com/watch?v=_FuDMEgIy7I), [Youtube Video 3](https://www.youtube.com/watch?v=0LpLxEUephc)
 15. Lazy loading & code splitting: [Youtube Video 1](https://www.youtube.com/watch?v=nS5qbSJLGx8), [Youtube Video 2](https://www.youtube.com/watch?v=IpuOnfjY82E)
 16. Understanding the React component lifecycle: [Youtube Video 1](https://www.youtube.com/watch?v=zvM_FUVcB-0&t=28s), [Youtube Video 2](https://www.youtube.com/watch?v=Zz9pLellSQA)
@@ -87,7 +87,11 @@
 19. React Router: [Youtube Video 1](https://www.youtube.com/watch?v=oTIJunBa6MA)
 20. React Hook Form with Zod: [Youtube Video 1](https://www.youtube.com/watch?v=cc_xmawJ8Kg)
 21. React best practices: [Youtube Video 1](https://www.youtube.com/watch?v=5r25Y9Vg2P4), [Youtube Video 2](https://www.youtube.com/watch?v=GGo3MVBFr1A&t=178s), [Youtube Video 3](https://www.youtube.com/watch?v=5r4LlVAFrd0), [Youtube Video 4](https://www.youtube.com/watch?v=YgNm3pVnvN0)
-22. [Official React Docs](https://react.dev/reference/react)
+22. React useTransition hook (React 18): [Youtube Video 1](https://www.youtube.com/watch?v=N5R6NL3UE7I)
+23. React useDeferredValue hook (React 18): [Youtube Video 1](https://www.youtube.com/watch?v=jCGMedd6IWA)
+24. React `use` hook (React 19): [Youtube Video 1](https://www.youtube.com/watch?v=zdNF9FJWJ8o&t=2s)
+25. React concurrent mode (React 18): [Youtube Video 1](https://www.youtube.com/watch?v=FDEveIuUD4s), [Youtube Video 2](https://www.youtube.com/watch?v=8_ZjNnUqarg), [Youtube Video 3](https://www.youtube.com/watch?v=C-AlTVKgs3Y) , [Youtube Video 4](https://www.youtube.com/watch?v=mECV6nGOqNo)
+26. [Official React Docs](https://react.dev/reference/react)
 
 # NodeJS
 1. NodeJS Cookbook : Own as a physical book
