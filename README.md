@@ -93,6 +93,7 @@
 25. React concurrent mode (React 18): [Youtube Video 1](https://www.youtube.com/watch?v=FDEveIuUD4s), [Youtube Video 2](https://www.youtube.com/watch?v=8_ZjNnUqarg), [Youtube Video 3](https://www.youtube.com/watch?v=C-AlTVKgs3Y) , [Youtube Video 4](https://www.youtube.com/watch?v=mECV6nGOqNo)
 26. React strict mode: [Youtube Video 1](https://www.youtube.com/watch?v=XUwzASyHr4Q)
 27. [Official React Docs](https://react.dev/reference/react)
+28. Vite: [Youtube Video 1](https://www.youtube.com/watch?v=KCrXgy8qtjM), [Youtube Video 2](https://www.youtube.com/watch?v=-KEuTPIpLbE)
 
 # NodeJS
 1. NodeJS Cookbook : Own as a physical book
