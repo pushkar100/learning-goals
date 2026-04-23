@@ -1,5 +1,3 @@
-Bookmarks
-
 # Bookmarks
 
 ### Bookmarks bar 
