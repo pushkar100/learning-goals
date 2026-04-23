@@ -1,127 +1,308 @@
-# 2025 Learning Goals
+Bookmarks
 
-- [DSA](#dsa)
-- [Web Concepts and Security](#web-concepts-and-security)
-- [JavaScript and TypeScript](#javascript-and-typescript)
-- [Frontend and Browser](#frontend-and-browser)
-- [Clean Code and Best Practices](#clean-code-and-best-practices)
-- [React](#react)
-- [NodeJS](#nodejs)
-- [Testing](#testing)
-- [Databases](#databases)
-- [Python Web Applications](#python-web-applications)
-- [Architecture](#architecture)
-- [Mobile Development with Java and Kotlin](#mobile-development-with-java-and-kotlin)
-- [Microservices](#microservices)
+# Bookmarks
 
-# DSA
-1. Handbook for Coding Interviews on Graphs (K Patil) : Own as Kindle e-book
-2. Recursion and Dynamic Programming : Uplevel Your Coding Interview (Jack Wong) : Own as Kindle e-book
+### Bookmarks bar {#bookmarks-bar add_date="1747155718" last_modified="1776923832" personal_toolbar_folder="true"}
 
-# System Design
-1. How to crack any System Design interview: [Youtube Video (8min)](https://www.youtube.com/watch?v=o-k7h2G3Gco)
-2. System Design Interview - An Insider's Guide Volume 1 : Own as a physical book
-3. System Design Interview - An Insider's Guide Volume 2 : Own as a physical book
+### System design {#system-design add_date="1771346279" last_modified="1771346286"}
 
-# Web Concepts and Security
-1. Web Application Security (Andrew Hoffman) (2020)
-2. High Performance Browser Networking (Ilya Grigorik) (2013) : Own as a physical book
-3. HTTP 1 vs 2 vs 3: [Youtube Video](https://www.youtube.com/watch?v=UMwQjFzTQXw)
-4. How do secure connections work? SSL, TLS, HTTPS: [Youtube Video](https://www.youtube.com/watch?v=j9QmMEWmcfo)
-5. Different types of network attacks (SQL injection, XSS, CSRF): [Youtube Playlist](https://www.youtube.com/playlist?list=PLTgRMOcmRb3OYTeKsyLDYyapFROKYvXEz)
-6. Client-Server intermediaries:
-    1. How the Internet works: [Youtube Video 1](https://www.youtube.com/watch?v=sMHzfigUxz4), [Youtube Video 2](https://www.youtube.com/watch?v=NiQTs9DbtW4), [Youtube Video 3](https://www.youtube.com/watch?v=AlkDbnbv7dk)
-    2. How DNS works: [Youtube Video](https://www.youtube.com/watch?v=27r4Bzuj5NQ)
-    3. Proxy vs Reverse Proxy: [Youtube Video](https://www.youtube.com/watch?v=RqfaTIWc3LQ)
-    4. What is an API Gateway?: [Youtube Video](https://www.youtube.com/watch?v=6ULyxuHKxg8)
-    5. Understanding CDNs: [Youtube Video](https://www.youtube.com/watch?v=RI9np1LWzqw)
-7. APIs:
-    1. Good vs Bad APIs: [Youtube Video](https://www.youtube.com/watch?v=_gQaygjm_hg)
-    2. API Pagination: [Youtube Video](https://www.youtube.com/watch?v=14K_a2kKTxU)
-    3. Understanding gRPC: [Youtube Video](https://www.youtube.com/watch?v=gnchfOojMk4)
-    4. What is GraphQL?: [Youtube Video](https://www.youtube.com/watch?v=yWzKJPw_VzM&t=11s)
-    5. Tips for API security: [Youtube Video](https://www.youtube.com/watch?v=6WZ6S-qmtqY)
-    6. BFF vs GraphQL?: [Youtube Video 1](https://www.youtube.com/watch?v=oFu2H4zyM-M&t=1s), [Youtube Video 2](https://www.youtube.com/watch?v=SSo-z16wEnc&t=2s)
-8. Authorization & Authentication:
-    1. Sessions vs JWTs : [Youtube Video](https://www.youtube.com/watch?v=fyTxwIa-1U0), [Youtube Video 2](https://www.youtube.com/watch?v=P2CPd9ynFLg), [My Notes on JWT](https://github.com/pushkar100/notes-apis-services-auth-security/blob/master/JSON-web-tokens.md)
-    2. OAuth2.0 explained: [Youtube Video](https://www.youtube.com/watch?v=ZV5yTm4pT8g)
+[InterviewReady/system-design-resources: These are the best resources
+for System Design on the
+Internet](https://github.com/InterviewReady/system-design-resources){add_date="1770907693"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABtklEQVR4nIyTwStEURSH73szZCiFopTFlM00CzYayp9gpxTFQtkQZcfeghQLC81kFvakLEjZDCuJsLCYwoxig5JixpiZ5zszZ+r2snDq6517z/ndd96557kG8zzPMWr4A5CEe/iCnPpbEDM+s4V1PJZhGhpq2768HGzAouM45UoAoctTxDswZP5nuzAKJVdPWlHxMYxBCj4hCxn1TzV2CMOwJFqpoF8FAYizOcNeEL8D3vSNrfBKrEBsHX8WvmFQEqegXhOLJMhBJZKfrJKfpdEaK+rLGmFSNtM43ZCHXoRp7YuH72mDK02UNRbGvYEmuJbETu3yCzxoYrkmrgmt9aNUpH7YVbGnJ4bsmfCbxuSKm1UXcLXTYm0Q0zKDvuGSzaBWIU1v15dmXb0eo1cl0xYhsfjHJ0iDo6Y6SEYrOJED4rpIwgXckrgHPVYFUdjGPYMIyOwUICFlXRLcZDEHfXAntwEf1ufLDU2oL+McgjW0V/YoH0EXLECG4LlVgTQuY6rDJbYPI/Dj+JISMK5bLRzyrjHpuvglzZmXqZRYsNZlrFKm/Lam+l/krU+QsV2FA/JSlsb7BQAA//8fGtSHAAAABklEQVQDAIsg4TDVy+61AAAAAElFTkSuQmCC"}
 
-# JavaScript and TypeScript
-1. JavaScript: The Definitive Guide, 7th Ed (David Flanagan) : Own as a physical book
-2. Rediscovering JavaScript: Master ES6, ES7 and ES8 (Venkat Subramaniam) : [Drive link](https://drive.google.com/file/d/1BO0ZE08W9nDsR0T6H-YtgO7UmM930dL6/view?usp=share_link)
-3. Modern Asynchronous JavaScript (Faraz K Kelhini) (2021) : [Drive link](https://drive.google.com/file/d/1PjcqbvgpuVe-hNMDR_z2GBqmAa1pKe-l/view?usp=share_link)
-4. TypeScript Cookbook : Own as a physical book
-5. [My Notes on JavaScript](https://github.com/pushkar100/notes-javascript)
+[karanpratapsingh/system-design: Learn how to design systems at scale
+and prepare for system design
+interviews](https://github.com/karanpratapsingh/system-design){add_date="1770907681"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABtklEQVR4nIyTwStEURSH73szZCiFopTFlM00CzYayp9gpxTFQtkQZcfeghQLC81kFvakLEjZDCuJsLCYwoxig5JixpiZ5zszZ+r2snDq6517z/ndd96557kG8zzPMWr4A5CEe/iCnPpbEDM+s4V1PJZhGhpq2768HGzAouM45UoAoctTxDswZP5nuzAKJVdPWlHxMYxBCj4hCxn1TzV2CMOwJFqpoF8FAYizOcNeEL8D3vSNrfBKrEBsHX8WvmFQEqegXhOLJMhBJZKfrJKfpdEaK+rLGmFSNtM43ZCHXoRp7YuH72mDK02UNRbGvYEmuJbETu3yCzxoYrkmrgmt9aNUpH7YVbGnJ4bsmfCbxuSKm1UXcLXTYm0Q0zKDvuGSzaBWIU1v15dmXb0eo1cl0xYhsfjHJ0iDo6Y6SEYrOJED4rpIwgXckrgHPVYFUdjGPYMIyOwUICFlXRLcZDEHfXAntwEf1ufLDU2oL+McgjW0V/YoH0EXLECG4LlVgTQuY6rDJbYPI/Dj+JISMK5bLRzyrjHpuvglzZmXqZRYsNZlrFKm/Lam+l/krU+QsV2FA/JSlsb7BQAA//8fGtSHAAAABklEQVQDAIsg4TDVy+61AAAAAElFTkSuQmCC"}
 
-# Frontend and Browser
-1. Building Micro-Frontends (Luca Mezzalira) (2021) : Own as a physical book
-2. [Udemy: Microfrontends with React - A Developer's Guide](https://www.udemy.com/course/microfrontend-course)
-3. Storage options on the Browser (LocalStorage, SessionStorage, Cookies, IndexedDB): [Youtube Video 1](https://www.youtube.com/watch?v=GihQAC1I39Q), [Youtube Video 2](https://www.youtube.com/watch?v=-AzFQN9Vp7k)
+[ByteByteGoHq/system-design-101: Explain complex systems using visuals
+and simple terms. Help you prepare for system design
+interviews.](https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-file){add_date="1770907655"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABtklEQVR4nIyTwStEURSH73szZCiFopTFlM00CzYayp9gpxTFQtkQZcfeghQLC81kFvakLEjZDCuJsLCYwoxig5JixpiZ5zszZ+r2snDq6517z/ndd96557kG8zzPMWr4A5CEe/iCnPpbEDM+s4V1PJZhGhpq2768HGzAouM45UoAoctTxDswZP5nuzAKJVdPWlHxMYxBCj4hCxn1TzV2CMOwJFqpoF8FAYizOcNeEL8D3vSNrfBKrEBsHX8WvmFQEqegXhOLJMhBJZKfrJKfpdEaK+rLGmFSNtM43ZCHXoRp7YuH72mDK02UNRbGvYEmuJbETu3yCzxoYrkmrgmt9aNUpH7YVbGnJ4bsmfCbxuSKm1UXcLXTYm0Q0zKDvuGSzaBWIU1v15dmXb0eo1cl0xYhsfjHJ0iDo6Y6SEYrOJED4rpIwgXckrgHPVYFUdjGPYMIyOwUICFlXRLcZDEHfXAntwEf1ufLDU2oL+McgjW0V/YoH0EXLECG4LlVgTQuY6rDJbYPI/Dj+JISMK5bLRzyrjHpuvglzZmXqZRYsNZlrFKm/Lam+l/krU+QsV2FA/JSlsb7BQAA//8fGtSHAAAABklEQVQDAIsg4TDVy+61AAAAAElFTkSuQmCC"}
 
-# Clean Code and Best Practices
-1. Refactoring, 2nd Ed (2019) (Martin Fowler) : Own as a physical book / Kindle e-book
-2. Learning JavaScript Design Patterns, 2nd Ed (2023) : Own as a physical book
-3. Code Reviews in Tech: The Missing Guide (Grace Huang) : Own as Kindle e-book
-4. Good Code, Bad Code : Own as a physical book
-5. [My Notes On Clean Coding](https://github.com/pushkar100/notes-clean-code-architecture)
+[donnemartin/system-design-primer: Learn how to design large-scale
+systems. Prep for the system design interview. Includes Anki
+flashcards.](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file){add_date="1770907637"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABtklEQVR4nIyTwStEURSH73szZCiFopTFlM00CzYayp9gpxTFQtkQZcfeghQLC81kFvakLEjZDCuJsLCYwoxig5JixpiZ5zszZ+r2snDq6517z/ndd96557kG8zzPMWr4A5CEe/iCnPpbEDM+s4V1PJZhGhpq2768HGzAouM45UoAoctTxDswZP5nuzAKJVdPWlHxMYxBCj4hCxn1TzV2CMOwJFqpoF8FAYizOcNeEL8D3vSNrfBKrEBsHX8WvmFQEqegXhOLJMhBJZKfrJKfpdEaK+rLGmFSNtM43ZCHXoRp7YuH72mDK02UNRbGvYEmuJbETu3yCzxoYrkmrgmt9aNUpH7YVbGnJ4bsmfCbxuSKm1UXcLXTYm0Q0zKDvuGSzaBWIU1v15dmXb0eo1cl0xYhsfjHJ0iDo6Y6SEYrOJED4rpIwgXckrgHPVYFUdjGPYMIyOwUICFlXRLcZDEHfXAntwEf1ufLDU2oL+McgjW0V/YoH0EXLECG4LlVgTQuY6rDJbYPI/Dj+JISMK5bLRzyrjHpuvglzZmXqZRYsNZlrFKm/Lam+l/krU+QsV2FA/JSlsb7BQAA//8fGtSHAAAABklEQVQDAIsg4TDVy+61AAAAAElFTkSuQmCC"}
 
-# React
-1. Micro-state management with React hooks (Daishi Kato) : Own as Kindle e-book
-2. React 19 Crash Course : Own as Kindle e-book
-3. React 19 docs & videos: [Youtube Video 1](https://www.youtube.com/watch?v=WvGexufMouA), [Youtube Video 2](https://www.youtube.com/watch?v=WHKvhMKV_-0), [Youtube Video 3](https://www.youtube.com/watch?v=zdNF9FJWJ8o), [Youtube Video 4](https://www.youtube.com/watch?v=qWPInECvNRo), [Documentation - React 19](https://react.dev/blog/2024/12/05/react-19#new-react-dom-static-apis)
-4. [My Notes on React](https://github.com/pushkar100/notes-react)
-5. Videos on useState and useEffect: [Youtube Video 1](https://www.youtube.com/watch?v=-4XpG5_Lj_o), [Youtube Video 2](https://www.youtube.com/watch?v=-yIsQPp31L0), [Youtube Video 3](https://www.youtube.com/watch?v=lStfMBiWROQ), [Youtube Video 4](https://www.youtube.com/watch?v=MFj_S0Nof90), [Youtube Video 5](https://www.youtube.com/watch?v=V1f8MOQiHRw), [Youtube Video 6](https://www.youtube.com/watch?v=F-0SZ_TicXA), [Youtube Video 7](https://www.youtube.com/watch?v=DOgfV-fQ94k), [Youtube Video 8](https://www.youtube.com/watch?v=cDdGGthGA6M), [Youtube Video 9](https://www.youtube.com/watch?v=GGo3MVBFr1A&t=177s), [Youtube Video 10](https://www.youtube.com/watch?v=O6P86uwfdR0), [Youtube Video 11](https://www.youtube.com/watch?v=j8s01ThR7bQ)
-6. Videos on useMemo and useCallback: [Youtube Video 1](https://www.youtube.com/watch?v=vpE9I_eqHdM), [Youtube Video 2](https://www.youtube.com/watch?v=MxIPQZ64x0I), [Youtube Video 3](https://www.youtube.com/watch?v=CSFMLmON5hM), [Youtube Video 4](https://www.youtube.com/watch?v=uojLJFt9SzY), [Youtube Video 5](https://www.youtube.com/watch?v=M8NaTJN8xh4)
-7. Videos on useRef and forwarding refs: [Youtube Video 1](https://www.youtube.com/watch?v=42BkpGe8oxg), [Youtube Video 2](https://www.youtube.com/watch?v=gLvsc3gjZnc), [Youtube Video 3](https://www.youtube.com/watch?v=gwFfzIaKnAU), [Youtube Video 4](https://www.youtube.com/watch?v=h2aK7H86HxY)
-8. Videos on Zustand: [Youtube Video 1](https://www.youtube.com/watch?v=_ngCLZ5Iz-0), [Youtube Video 2](https://www.youtube.com/watch?v=KCr-UNsM3vA)
-9. Videos on Jotai: [Youtube Video 1](https://www.youtube.com/watch?v=eVfw4pRDUIY), [Youtube Video 2](https://www.youtube.com/watch?v=0uM16sAWm_Q)
-10. Comparing Redux with Alternatives : [Youtube Video 1](https://www.youtube.com/watch?v=czptRA4IeCc), [Youtube Video 2](https://www.youtube.com/watch?v=yJeamGjFNqQ)
-11. Drawbacks of React Context: [Youtube Video 1](https://www.youtube.com/watch?v=16yMmAJSGek&t=2s), [Youtube Video 2](https://www.youtube.com/watch?v=I7dwJxGuGYQ), [Youtube Video 3](https://www.youtube.com/watch?v=FpITaXEOJZ0&t=1s), [Youtube Video 4](https://www.youtube.com/watch?v=MSpDAuDPqNw), [Youtube Video 5](https://www.youtube.com/watch?v=NMNo8Rz6ARg), [Youtube Video 6](https://www.youtube.com/watch?v=ZKlXqrcBx88), [Youtube Video 7](https://www.youtube.com/watch?v=5gUHfe-ETuo), [Youtube Video 8](https://www.youtube.com/shorts/PmZCIPeBRig), [Youtube Video 9](https://www.youtube.com/watch?v=OvM4hIxrqAw), [Youtube Video 10](https://www.youtube.com/watch?v=D66ej8uVeVU), [Youtube Video 11](https://www.youtube.com/watch?v=_HdrLsyAdJg)
-12. React Server Components (RSC): [Youtube Video 1](https://www.youtube.com/watch?v=VIwWgV3Lc6s), [Youtube Video 2](https://www.youtube.com/watch?v=bugO1tmSDpM), [Youtube Video 3](https://www.youtube.com/watch?v=jEJEFAc8tSI&t=5s), [Youtube Video 4](https://www.youtube.com/watch?v=rGPpQdbDbwo&t=250s), [Youtube Video 5](https://www.youtube.com/watch?v=Qdkg_mrniLk), [Youtube Video 6](https://www.youtube.com/watch?v=WeyDovgSen4), [Youtube Video 7](https://www.youtube.com/watch?v=0njVU3TRUtk)
-13. React optimization techniques: [Youtube Video 1](https://www.youtube.com/watch?v=laf64Ms0yV4), [Youtube Video 2](https://www.youtube.com/watch?v=tbBILjDgXb4), [Youtube Video 3](https://www.youtube.com/watch?v=CaShN6mCJB0), [Youtube Video 4](https://www.youtube.com/watch?v=-yIsQPp31L0), [Youtube Video 5](https://www.youtube.com/watch?v=Qwb-Za6cBws&t=13s)
-14. React Suspense & Error Boundary: [Youtube Video 1](https://www.youtube.com/watch?v=hdaE94dP_Vg), [Youtube Video 2](https://www.youtube.com/watch?v=_FuDMEgIy7I), [Youtube Video 3](https://www.youtube.com/watch?v=0LpLxEUephc), [Youtube Video 4](https://www.youtube.com/watch?v=xwr7ZyfKzjA&t=20s)
-15. Lazy loading & code splitting: [Youtube Video 1](https://www.youtube.com/watch?v=nS5qbSJLGx8), [Youtube Video 2](https://www.youtube.com/watch?v=IpuOnfjY82E)
-16. Understanding the React component lifecycle: [Youtube Video 1](https://www.youtube.com/watch?v=zvM_FUVcB-0&t=28s), [Youtube Video 2](https://www.youtube.com/watch?v=Zz9pLellSQA)
-17. React internals: [Youtube Video 1](https://www.youtube.com/watch?v=7YhdqIR2Yzo&t=35s), [Youtube Video 2](https://www.youtube.com/watch?v=N9cFPtkqtWI)
-18. React Query:  [Youtube Video 1](https://www.youtube.com/watch?v=r8Dg0KVnfMA), [Youtube Video 2](https://www.youtube.com/watch?v=lVLz_ASqAio), [Youtube Video 3](https://www.youtube.com/watch?v=xIflplz925Y)
-19. React Router: [Youtube Video 1](https://www.youtube.com/watch?v=oTIJunBa6MA)
-20. React Hook Form with Zod: [Youtube Video 1](https://www.youtube.com/watch?v=cc_xmawJ8Kg)
-21. React best practices: [Youtube Video 1](https://www.youtube.com/watch?v=5r25Y9Vg2P4), [Youtube Video 2](https://www.youtube.com/watch?v=GGo3MVBFr1A&t=178s), [Youtube Video 3](https://www.youtube.com/watch?v=5r4LlVAFrd0), [Youtube Video 4](https://www.youtube.com/watch?v=YgNm3pVnvN0)
-22. React useTransition hook (React 18): [Youtube Video 1](https://www.youtube.com/watch?v=N5R6NL3UE7I)
-23. React useDeferredValue hook (React 18): [Youtube Video 1](https://www.youtube.com/watch?v=jCGMedd6IWA)
-24. React `use` hook (React 19): [Youtube Video 1](https://www.youtube.com/watch?v=zdNF9FJWJ8o&t=2s)
-25. React concurrent mode (React 18): [Youtube Video 1](https://www.youtube.com/watch?v=FDEveIuUD4s), [Youtube Video 2](https://www.youtube.com/watch?v=8_ZjNnUqarg), [Youtube Video 3](https://www.youtube.com/watch?v=C-AlTVKgs3Y) , [Youtube Video 4](https://www.youtube.com/watch?v=mECV6nGOqNo)
-26. React strict mode: [Youtube Video 1](https://www.youtube.com/watch?v=XUwzASyHr4Q)
-27. [Official React Docs](https://react.dev/reference/react)
-28. Vite: [Youtube Video 1](https://www.youtube.com/watch?v=KCrXgy8qtjM), [Youtube Video 2](https://www.youtube.com/watch?v=-KEuTPIpLbE)
+### Interesting Tech Videos (Backend) {#interesting-tech-videos-backend add_date="1771346268" last_modified="1773061284"}
 
-# NodeJS
-1. NodeJS Cookbook : Own as a physical book
-2. Mastering NodeJS : Own as a physical book
+[Let's Handle 1 Million Requests per Second, It's Scarier Than You
+Think! -
+YouTube](https://www.youtube.com/watch?v=W4EwfEU8CGA){add_date="1771346571"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnElEQVR4nKxTu0pDQRA9u9mrBiGgsZKoiZ0iiK9CBP/AD7DzD6z8Cq0FGwtbP0IkiKBYCGIbNKkENYgSNckdz2Q35l4rX8vdO7uzM7NnZs46cAhgKCy8TIyFsL+QtF5dEPNQjDobr/jxCL66mBkD+pYYdBjIDFJmqXY8zwTTNn8tgmwA7RfKB+D93OCqSgTza1Ts02DEG1svUriSAOPu4p7rDQ1wzFtXGblJLxusOZsehCWI+NPJ+ClUZCL6lOkgk1xQIbQUDUDZdihNOERRhPgpgrWajuvZqFQfU+TG5v3Nvh6wKp8NNtcNjvaA5UUiqFP3ZvSwl5/6SF5vHOjlx4MQBy3WbWUWKB8Ah7tAsYBOWsYkW511+OPQAK8ayW9F+PkbHNM8uQS2toHTswC0X+uXbEmDXZirEteoL34nN0rCL5EatTuDZp2p5wQdv243JJAXNa1uhYUvpNuYEVRuPECbS7TRhDYitLFV0RSIUaZo+YVILjAeSD8RVShDhUQyO4HK0+PMj1S2Q9x+g8rmkW0lla9v/+sx/f45fwAAAP//ZPH6ZQAAAAZJREFUAwDyMIxgZOLmzQAAAABJRU5ErkJggg=="}
 
-# Testing
-1. Unit Testing - Principles, Practices and Patterns : Own as a physical book
-2. Effective Software Testing : Own as a physical book
-3. Full Stack Testing : Own as a physical book
+[How AWS S3 is built -
+YouTube](https://www.youtube.com/watch?v=5vL6aCvgQXU){add_date="1771346601"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnElEQVR4nKxTu0pDQRA9u9mrBiGgsZKoiZ0iiK9CBP/AD7DzD6z8Cq0FGwtbP0IkiKBYCGIbNKkENYgSNckdz2Q35l4rX8vdO7uzM7NnZs46cAhgKCy8TIyFsL+QtF5dEPNQjDobr/jxCL66mBkD+pYYdBjIDFJmqXY8zwTTNn8tgmwA7RfKB+D93OCqSgTza1Ts02DEG1svUriSAOPu4p7rDQ1wzFtXGblJLxusOZsehCWI+NPJ+ClUZCL6lOkgk1xQIbQUDUDZdihNOERRhPgpgrWajuvZqFQfU+TG5v3Nvh6wKp8NNtcNjvaA5UUiqFP3ZvSwl5/6SF5vHOjlx4MQBy3WbWUWKB8Ah7tAsYBOWsYkW511+OPQAK8ayW9F+PkbHNM8uQS2toHTswC0X+uXbEmDXZirEteoL34nN0rCL5EatTuDZp2p5wQdv243JJAXNa1uhYUvpNuYEVRuPECbS7TRhDYitLFV0RSIUaZo+YVILjAeSD8RVShDhUQyO4HK0+PMj1S2Q9x+g8rmkW0lla9v/+sx/f45fwAAAP//ZPH6ZQAAAAZJREFUAwDyMIxgZOLmzQAAAABJRU5ErkJggg=="}
 
-# Databases
-1. ACID properties in Databases: [Youtube Video](https://www.youtube.com/watch?v=GAe5oB742dw)
-2. [Udemy: SQL and PostgreSQL - Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql)
-3. No SQL Distilled (Pramod JS, Martin Fowler) (2013) : Own as a physical book
+[How OpenAI Handles 800 Million ChatGPT Users on a Single PostgreSQL
+Primary -
+YouTube](https://www.youtube.com/watch?v=ubpUjovBMAM){add_date="1771432739"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnElEQVR4nKxTu0pDQRA9u9mrBiGgsZKoiZ0iiK9CBP/AD7DzD6z8Cq0FGwtbP0IkiKBYCGIbNKkENYgSNckdz2Q35l4rX8vdO7uzM7NnZs46cAhgKCy8TIyFsL+QtF5dEPNQjDobr/jxCL66mBkD+pYYdBjIDFJmqXY8zwTTNn8tgmwA7RfKB+D93OCqSgTza1Ts02DEG1svUriSAOPu4p7rDQ1wzFtXGblJLxusOZsehCWI+NPJ+ClUZCL6lOkgk1xQIbQUDUDZdihNOERRhPgpgrWajuvZqFQfU+TG5v3Nvh6wKp8NNtcNjvaA5UUiqFP3ZvSwl5/6SF5vHOjlx4MQBy3WbWUWKB8Ah7tAsYBOWsYkW511+OPQAK8ayW9F+PkbHNM8uQS2toHTswC0X+uXbEmDXZirEteoL34nN0rCL5EatTuDZp2p5wQdv243JJAXNa1uhYUvpNuYEVRuPECbS7TRhDYitLFV0RSIUaZo+YVILjAeSD8RVShDhUQyO4HK0+PMj1S2Q9x+g8rmkW0lla9v/+sx/f45fwAAAP//ZPH6ZQAAAAZJREFUAwDyMIxgZOLmzQAAAABJRU5ErkJggg=="}
 
-# Python Web Applications
-1. [My Python Notes](https://github.com/pushkar100/notes-python)
-3. [Udemy course: Web Development with Django](https://www.udemy.com/course/python-django-the-practical-guide/)
+[(Amazon DynamoDB - Paper Explained -
+YouTube](https://www.youtube.com/watch?v=LnqKfLcszEg){add_date="1771432765"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnElEQVR4nKxTu0pDQRA9u9mrBiGgsZKoiZ0iiK9CBP/AD7DzD6z8Cq0FGwtbP0IkiKBYCGIbNKkENYgSNckdz2Q35l4rX8vdO7uzM7NnZs46cAhgKCy8TIyFsL+QtF5dEPNQjDobr/jxCL66mBkD+pYYdBjIDFJmqXY8zwTTNn8tgmwA7RfKB+D93OCqSgTza1Ts02DEG1svUriSAOPu4p7rDQ1wzFtXGblJLxusOZsehCWI+NPJ+ClUZCL6lOkgk1xQIbQUDUDZdihNOERRhPgpgrWajuvZqFQfU+TG5v3Nvh6wKp8NNtcNjvaA5UUiqFP3ZvSwl5/6SF5vHOjlx4MQBy3WbWUWKB8Ah7tAsYBOWsYkW511+OPQAK8ayW9F+PkbHNM8uQS2toHTswC0X+uXbEmDXZirEteoL34nN0rCL5EatTuDZp2p5wQdv243JJAXNa1uhYUvpNuYEVRuPECbS7TRhDYitLFV0RSIUaZo+YVILjAeSD8RVShDhUQyO4HK0+PMj1S2Q9x+g8rmkW0lla9v/+sx/f45fwAAAP//ZPH6ZQAAAAZJREFUAwDyMIxgZOLmzQAAAABJRU5ErkJggg=="}
 
-# Architecture
-1. Software Architecture: The Hard Parts (Neal Ford) : Own as Kindle e-book
-2. Become an Awesome Software Architect : Own as a physical book
-3. Understanding Distributed Systems (Roberto Vitillo) : Own as Kindle e-book
+[Build a robust Payments service using Idempotency Keys -
+YouTube](https://www.youtube.com/watch?v=m6DtqSb1BDM){add_date="1771432806"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnElEQVR4nKxTu0pDQRA9u9mrBiGgsZKoiZ0iiK9CBP/AD7DzD6z8Cq0FGwtbP0IkiKBYCGIbNKkENYgSNckdz2Q35l4rX8vdO7uzM7NnZs46cAhgKCy8TIyFsL+QtF5dEPNQjDobr/jxCL66mBkD+pYYdBjIDFJmqXY8zwTTNn8tgmwA7RfKB+D93OCqSgTza1Ts02DEG1svUriSAOPu4p7rDQ1wzFtXGblJLxusOZsehCWI+NPJ+ClUZCL6lOkgk1xQIbQUDUDZdihNOERRhPgpgrWajuvZqFQfU+TG5v3Nvh6wKp8NNtcNjvaA5UUiqFP3ZvSwl5/6SF5vHOjlx4MQBy3WbWUWKB8Ah7tAsYBOWsYkW511+OPQAK8ayW9F+PkbHNM8uQS2toHTswC0X+uXbEmDXZirEteoL34nN0rCL5EatTuDZp2p5wQdv243JJAXNa1uhYUvpNuYEVRuPECbS7TRhDYitLFV0RSIUaZo+YVILjAeSD8RVShDhUQyO4HK0+PMj1S2Q9x+g8rmkW0lla9v/+sx/f45fwAAAP//ZPH6ZQAAAAZJREFUAwDyMIxgZOLmzQAAAABJRU5ErkJggg=="}
 
-# Mobile Development
-1. [Udemy: Complete Android 10 Developer Course - Teaches Java & Kotlin](https://www.udemy.com/course/the-complete-android-10-developer-course-mastering-android)
-2. [Udemy: The Complete React Native and redux Course](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
+[How NGINX Handles MILLIONS of Requests With Just 1 Process 🔥 -
+YouTube](https://www.youtube.com/watch?v=I6dpN0geIb4){add_date="1771433038"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnElEQVR4nKxTu0pDQRA9u9mrBiGgsZKoiZ0iiK9CBP/AD7DzD6z8Cq0FGwtbP0IkiKBYCGIbNKkENYgSNckdz2Q35l4rX8vdO7uzM7NnZs46cAhgKCy8TIyFsL+QtF5dEPNQjDobr/jxCL66mBkD+pYYdBjIDFJmqXY8zwTTNn8tgmwA7RfKB+D93OCqSgTza1Ts02DEG1svUriSAOPu4p7rDQ1wzFtXGblJLxusOZsehCWI+NPJ+ClUZCL6lOkgk1xQIbQUDUDZdihNOERRhPgpgrWajuvZqFQfU+TG5v3Nvh6wKp8NNtcNjvaA5UUiqFP3ZvSwl5/6SF5vHOjlx4MQBy3WbWUWKB8Ah7tAsYBOWsYkW511+OPQAK8ayW9F+PkbHNM8uQS2toHTswC0X+uXbEmDXZirEteoL34nN0rCL5EatTuDZp2p5wQdv243JJAXNa1uhYUvpNuYEVRuPECbS7TRhDYitLFV0RSIUaZo+YVILjAeSD8RVShDhUQyO4HK0+PMj1S2Q9x+g8rmkW0lla9v/+sx/f45fwAAAP//ZPH6ZQAAAAZJREFUAwDyMIxgZOLmzQAAAABJRU5ErkJggg=="}
 
-# Microservices
-1. [Udemy: Microservices with NodeJS and React](https://www.udemy.com/course/microservices-with-node-js-and-react) : Covers NodeJS, Docker, K8S, TypeScript, etc.
+[Postgres Just Killed Elasticsearch -
+YouTube](https://www.youtube.com/watch?v=XEiQV4zRC-U){add_date="1771436279"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnElEQVR4nKxTu0pDQRA9u9mrBiGgsZKoiZ0iiK9CBP/AD7DzD6z8Cq0FGwtbP0IkiKBYCGIbNKkENYgSNckdz2Q35l4rX8vdO7uzM7NnZs46cAhgKCy8TIyFsL+QtF5dEPNQjDobr/jxCL66mBkD+pYYdBjIDFJmqXY8zwTTNn8tgmwA7RfKB+D93OCqSgTza1Ts02DEG1svUriSAOPu4p7rDQ1wzFtXGblJLxusOZsehCWI+NPJ+ClUZCL6lOkgk1xQIbQUDUDZdihNOERRhPgpgrWajuvZqFQfU+TG5v3Nvh6wKp8NNtcNjvaA5UUiqFP3ZvSwl5/6SF5vHOjlx4MQBy3WbWUWKB8Ah7tAsYBOWsYkW511+OPQAK8ayW9F+PkbHNM8uQS2toHTswC0X+uXbEmDXZirEteoL34nN0rCL5EatTuDZp2p5wQdv243JJAXNa1uhYUvpNuYEVRuPECbS7TRhDYitLFV0RSIUaZo+YVILjAeSD8RVShDhUQyO4HK0+PMj1S2Q9x+g8rmkW0lla9v/+sx/f45fwAAAP//ZPH6ZQAAAAZJREFUAwDyMIxgZOLmzQAAAABJRU5ErkJggg=="}
 
+[Introduction to Tracing : OpenTelemetry & Opentracing -
+YouTube](https://www.youtube.com/watch?v=idDu_jXqf4E){add_date="1773040849"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnElEQVR4nKxTu0pDQRA9u9mrBiGgsZKoiZ0iiK9CBP/AD7DzD6z8Cq0FGwtbP0IkiKBYCGIbNKkENYgSNckdz2Q35l4rX8vdO7uzM7NnZs46cAhgKCy8TIyFsL+QtF5dEPNQjDobr/jxCL66mBkD+pYYdBjIDFJmqXY8zwTTNn8tgmwA7RfKB+D93OCqSgTza1Ts02DEG1svUriSAOPu4p7rDQ1wzFtXGblJLxusOZsehCWI+NPJ+ClUZCL6lOkgk1xQIbQUDUDZdihNOERRhPgpgrWajuvZqFQfU+TG5v3Nvh6wKp8NNtcNjvaA5UUiqFP3ZvSwl5/6SF5vHOjlx4MQBy3WbWUWKB8Ah7tAsYBOWsYkW511+OPQAK8ayW9F+PkbHNM8uQS2toHTswC0X+uXbEmDXZirEteoL34nN0rCL5EatTuDZp2p5wQdv243JJAXNa1uhYUvpNuYEVRuPECbS7TRhDYitLFV0RSIUaZo+YVILjAeSD8RVShDhUQyO4HK0+PMj1S2Q9x+g8rmkW0lla9v/+sx/f45fwAAAP//ZPH6ZQAAAAZJREFUAwDyMIxgZOLmzQAAAABJRU5ErkJggg=="}
+
+### 1. Docker & k8s {#docker-k8s add_date="1776447978" last_modified="1776495223"}
+
+[Kubernetes Explained -
+YouTube](https://www.youtube.com/watch?v=aSrqRSk43lY){add_date="1776448056"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[What is Kubernetes \| Kubernetes explained in 15 mins -
+YouTube](https://www.youtube.com/watch?v=VnvRFRk_51k){add_date="1776448061"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[Kubernetes Crash Course for Absolute Beginners \[NEW\] -
+YouTube](https://www.youtube.com/watch?v=s_o8dwzRlu4){add_date="1776448072"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[Kubernetes Ingress Tutorial for Beginners \| simply explained \|
+Kubernetes Tutorial 22 -
+YouTube](https://www.youtube.com/watch?v=80Ew_fsV4rM){add_date="1776448421"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[Kubernetes StatefulSet simply explained \| Deployment vs StatefulSet -
+YouTube](https://www.youtube.com/watch?v=pPQKAR1pA9U){add_date="1776448425"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[What is Helm in Kubernetes? Helm and Helm Charts explained \|
+Kubernetes Tutorial 23 -
+YouTube](https://www.youtube.com/watch?v=-ykwb1d0DXU){add_date="1776448428"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[Helm and Helm Charts Explained - Helm Tutorial for Beginners -
+YouTube](https://www.youtube.com/watch?v=w51lDVuRWuk){add_date="1776448431"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+### 2. Claude & AI {#claude-ai add_date="1776874252" last_modified="1776885865"}
+
+[AI-Assisted Coding Tutorial -- OpenClaw, GitHub Copilot, Claude Code,
+CodeRabbit, Gemini CLI -
+YouTube](https://www.youtube.com/watch?v=wlpBCazAY9Q){add_date="1775456578"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[Claude Code Tutorial -
+YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY){add_date="1776874474"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[\[LATER \| NOT NOW\] ChatGPT and LangChain: The Complete Developer\'s
+Masterclass](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/){add_date="1776884658"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+### Vector DB {#vector-db add_date="1776885690" last_modified="1776923511"}
+
+[Vector Databases Fundamentals to Production \[2026
+Edition\]](https://www.udemy.com/course/vector-databases-ai/?couponCode=CM260417IN){add_date="1776885865"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+### 3. NodeJS {#nodejs add_date="1774620570" last_modified="1776876124"}
+
+[NodeJS Pro: Advanced Streams, Design Patterns,
+Performance](https://www.udemy.com/course/advanced-node-js/?couponCode=CM260417IN){add_date="1776874541"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+[\[LATER \| NOT NOW\] NodeJS Internals and
+Architecture](https://www.udemy.com/course/nodejs-internals-and-architecture/?couponCode=CM260417IN){add_date="1776875096"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+### 4. Databases {#databases add_date="1776923795" last_modified="1776926461"}
+
+### Data Modeling Basics {#data-modeling-basics add_date="1776926290" last_modified="1776926296"}
+
+[Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF -
+YouTube](https://www.youtube.com/watch?v=GFQaEYEc8_8&t=289s){add_date="1776924771"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[Entity Relationship Diagrams -
+YouTube](https://www.youtube.com/watch?v=LowjDtiNlk4){add_date="1776924784"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+### PostgreSQL & SQLite {#postgresql-sqlite add_date="1776874572" last_modified="1776926439"}
+
+[\[Finish remaining parts\] SQL and PostgreSQL: The Complete
+Developer\'s
+Guide](https://www.udemy.com/course/sql-and-postgresql/){add_date="1776883429"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+[PostgreSQL High Performance Tuning
+Guide](https://www.udemy.com/course/postgresql-high-performance-tuning-guide/?couponCode=CM260417IN){add_date="1776876607"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+[PostgreSQL Replication, High Availability HA and
+Scalability](https://www.udemy.com/course/postgresql-replication-high-availability-ha-and-scalability/?couponCode=CM260417IN){add_date="1776876650"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+[SQLite Databases With Python - Full Course -
+YouTube](https://www.youtube.com/watch?v=byHcYRpMgI4&t=728s){add_date="1776884713"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[SQLite \| What, Why , Where -
+YouTube](https://www.youtube.com/watch?v=KHc2iiLEDoQ){add_date="1776884862"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[SQLite Fundamentals - Why SQLite? -
+YouTube](https://www.youtube.com/watch?v=DAb5U84JhQ4){add_date="1776884879"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[SQLite Is ULTIMATE Choice For 99% of Projects -
+YouTube](https://www.youtube.com/watch?v=9RArbqGOvsw){add_date="1776884902"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[🔥 Why More Database Connections Make Your App Slower -
+YouTube](https://www.youtube.com/watch?v=4IeCUl64Ar0){add_date="1776923511"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[How do indexes make databases read faster? -
+YouTube](https://www.youtube.com/watch?v=3G293is403I){add_date="1776923543"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[How indexes work in Distributed Databases, their trade-offs, and
+challenges -
+YouTube](https://www.youtube.com/watch?v=eQ3eNd5WbH8){add_date="1776923561"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[PostgreSQL Internal Architecture Explained -
+YouTube](https://www.youtube.com/watch?v=Q56kljmIN14&t=18s){add_date="1776925222"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[PostgreSQL vs MySQL -
+YouTube](https://www.youtube.com/watch?v=btjBNKP49Rk&t=3s){add_date="1776925251"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[Why I switched from MongoDB to PostgreSQL (Rasmus Porsager) -
+YouTube](https://www.youtube.com/watch?v=OU7Llw3QrDM){add_date="1776926353"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+### ORMs {#orms add_date="1776926453" last_modified="1776926457"}
+
+[Prisma ORM Full Course 2025 \| Become a Prisma Pro in 2.5 Hours -
+YouTube](https://www.youtube.com/watch?v=gimSKEsWYb4){add_date="1776926439"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+### Redis {#redis add_date="1776883993" last_modified="1776884658"}
+
+[Redis Mastery: From Basics to Advanced
+Applications](https://www.udemy.com/course/redis-for-beginners-hands-on-with-redis/?couponCode=CM260417IN){add_date="1776884191"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+[Modern Redis
+Unleashed](https://www.udemy.com/course/redis-cloud/?couponCode=CM260417IN){add_date="1776884117"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+[Learn Redis with Node and Express: Build Real-Time
+Projects](https://www.udemy.com/course/learn-redis-node-express-build-real-time-projects/?couponCode=CM260417IN){add_date="1776884347"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+### Cassandra {#cassandra add_date="1776884245" last_modified="1776884347"}
+
+[Learn Apache Cassandra in 2 hours \| NoSQL
+Database](https://www.udemy.com/course/learn-cassandra-from-scratch/?couponCode=CM260417IN){add_date="1776884282"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+### MongoDB {#mongodb add_date="1776885064" last_modified="1776926353"}
+
+[MongoDB Mastery: Your Essential Guide to Dominating
+Database](https://www.udemy.com/course/mongodb-mastering-mongodb-for-beginners-theory-projects/?couponCode=CM260417IN){add_date="1776885640"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+[MongoDB : A Complete Database Administration
+Course](https://www.udemy.com/course/mongodb-a-complete-course-on-database-administration/?couponCode=CM260417IN){add_date="1776885653"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+[Getting Started with MongoDB & Mongoose ODM (Object Data Modeling)
+Library -
+YouTube](https://www.youtube.com/watch?v=bALyYC10ABw){add_date="1776926336"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+### DynamoDB {#dynamodb add_date="1776885089" last_modified="1776885640"}
+
+[Amazon DynamoDB Data Modeling for Architects &
+Developers](https://www.udemy.com/course/dynamodb-data-modeling/?couponCode=CM260417IN){add_date="1776885384"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+### Neo4j {#neo4j add_date="1776885094" last_modified="1776885384"}
+
+[Neo4j: GraphDB Foundations with
+Cypher](https://www.udemy.com/course/neo4j-foundations/?couponCode=CM260417IN){add_date="1776885326"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+### DB Case-studies {#db-case-studies add_date="1776923987" last_modified="1776925222"}
+
+[Scaling 7M+ Postgres Tables! by Kailash Nadh CTO \@zerodha -
+YouTube](https://www.youtube.com/watch?v=4TE1xErXwGc){add_date="1776923990"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[Solving one of PostgreSQL\'s biggest weaknesses. -
+YouTube](https://www.youtube.com/watch?v=ruUlK6zRwS8){add_date="1776924018"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[They Enabled Postgres Partitioning and their Backend fell apart -
+YouTube](https://www.youtube.com/watch?v=YPorP8BsF_c){add_date="1776924351"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[How Shopify's engineering improved database writes by 50% with ULID -
+YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA){add_date="1776924849"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+### 5. Java & SB {#java-sb add_date="1776874313" last_modified="1776883898"}
+
+[\[Finish remaining parts\] \[NEW\] Master Spring 7, Spring Boot 4,
+REST, JPA,
+Security](https://www.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/?couponCode=CM260417IN){add_date="1776883491"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+[Spring Boot Tutorial for Beginners \| Full Course 2025 -
+YouTube](https://www.youtube.com/watch?v=Cw0J6jYJtzw){add_date="1776883886"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+### 6. Kafka & RMQ {#kafka-rmq add_date="1776874338" last_modified="1776926336"}
+
+[The Complete Apache Kafka Practical
+Guide](https://www.udemy.com/course/apache_kafka/?couponCode=CM260417IN){add_date="1776876124"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+[Why and how Trello moved away from RabbitMQ to Kafka for their
+WebSocket-based real-time updates -
+YouTube](https://www.youtube.com/watch?v=LJzS6dUV-GE&t=11s){add_date="1776925363"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABnUlEQVR4nKxTvUoDQRD+du9ODUJAYyVREztFEP8KEXwDH8DON7DyKbQWbCxsfQiRIIJiIYht0KQS1CBK1CQ3fpPdeHdW/i23N7uzM7PfzHwbgkMAQ2HhZGos+P2FZPXqgpiHYtTZOMWPh/fVxcwY0LfEoMNAMEiZozrkeeBNO/y1CbIJdF4oH4D3c4OrGhHMr1GxT4MRZ2ydyOBKA4x7i3uuNzTAMW9dZeQWvay35mw5EJYg4k8n46ZQEUT0qdBBJrmgQmgpGoCyE6I8ESKKIsRPEazVdMLERqX6mBI3tuBudvWAVflssLlucLQHLC8SQYO6N6OHSX7qIwW9cSDJjwc+Dtqs28osUDkADneBUhHdtIxJtzpn8cfBvPCqkdxWhJ+7IWSaJ5fA1jZweuaB9mv90i1psgtzNeIadcXv5kZJ+GVSo35n0Gow9byg69frhnjyoq7VrbLwxWwbA0H1xgG0+VQbjW8jfBvbVU2BGGWKll+IFHrGA9knogplqJBIZsdTeXqc+ZHKdojbb1DZPLKtpPL17X89pt8/5w8AAAD//9kL5poAAAAGSURBVAMA7iCMXqNqsDEAAAAASUVORK5CYII="}
+
+[RabbitMQ & Java (Spring Boot 3) Bootcamp - Basic To
+Advanced](https://www.udemy.com/course/rabbitmq-java-spring-boot-for-system-integration/?couponCode=CM260417IN){add_date="1776925413"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+### 7. ElasticSearch {#elasticsearch add_date="1776885143" last_modified="1776885326"}
+
+[Elasticsearch 8, Kibana, Logstash, Beats: ELK
+Stack](https://www.udemy.com/course/the-ultimate-elasticsearch-and-kibana-handbook-elk/?couponCode=CM260417IN){add_date="1776885194"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+[ELASTIC 8: Monitoring with Elasticsearch, Kibana, Beats,
+APM](https://www.udemy.com/course/elastic-8-elasticsearch-kibana-beats-masterclass/?couponCode=CM260417IN){add_date="1776885263"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+
+### Shopping list {#shopping-list add_date="1764777853" last_modified="1764777853"}
+
+[GitHub - ryanmcdermott/clean-code-javascript: :bathtub: Clean Code
+concepts adapted for
+JavaScript](https://github.com/ryanmcdermott/clean-code-javascript){add_date="1693390357"
+icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABtklEQVR4nIyTwStEURSH73szZCiFopTFlM00CzYayp9gpxTFQtkQZcfeghQLC81kFvakLEjZDCuJsLCYwoxig5JixpiZ5zszZ+r2snDq6517z/ndd96557kG8zzPMWr4A5CEe/iCnPpbEDM+s4V1PJZhGhpq2768HGzAouM45UoAoctTxDswZP5nuzAKJVdPWlHxMYxBCj4hCxn1TzV2CMOwJFqpoF8FAYizOcNeEL8D3vSNrfBKrEBsHX8WvmFQEqegXhOLJMhBJZKfrJKfpdEaK+rLGmFSNtM43ZCHXoRp7YuH72mDK02UNRbGvYEmuJbETu3yCzxoYrkmrgmt9aNUpH7YVbGnJ4bsmfCbxuSKm1UXcLXTYm0Q0zKDvuGSzaBWIU1v15dmXb0eo1cl0xYhsfjHJ0iDo6Y6SEYrOJED4rpIwgXckrgHPVYFUdjGPYMIyOwUICFlXRLcZDEHfXAntwEf1ufLDU2oL+McgjW0V/YoH0EXLECG4LlVgTQuY6rDJbYPI/Dj+JISMK5bLRzyrjHpuvglzZmXqZRYsNZlrFKm/Lam+l/krU+QsV2FA/JSlsb7BQAA//8fGtSHAAAABklEQVQDAIsg4TDVy+61AAAAAElFTkSuQmCC"}
