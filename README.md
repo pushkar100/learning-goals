@@ -237,5 +237,4 @@ Advanced](https://www.udemy.com/course/rabbitmq-java-spring-boot-for-system-inte
 Stack](https://www.udemy.com/course/the-ultimate-elasticsearch-and-kibana-handbook-elk/?couponCode=CM260417IN)
 
 [ELASTIC 8: Monitoring with Elasticsearch, Kibana, Beats,
-APM](https://www.udemy.com/course/elastic-8-elasticsearch-kibana-beats-masterclass/?couponCode=CM260417IN){add_date="1776885263"
-icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB/0lEQVR4nJxTzUtUURT/nXufMzrjMDMKWS3KhUFMRfQhBG0qE2oVbqJFuahA2rSo/oPWZQWSQdGioahFbYqgpEWLIEgwkFFxI4qIih8jjOjoe8d77vM931NXns07H7/z9bvnOdgmxTPzJ6DoLqDaAG72vTRGQJ/L7uvOfw2DUTwFyosWTubz5W7j6DKmskHlx9gL8a6xehOV3IPrJaqGBSS5IVf+bqyLAbKxoHH2YR1UDdD/dAUzA+vRrr9qKtmrUsT2MMnPwmQTPf84hStv65HaT6htJLS/SltfMC8Dl9bqF59YuL+zGgjH1sCN31mMfq7i/8sVO37hVhKFzgQ+XlgCu1vrKLgnqdi68Nyk3Q/HM2VSTQqVKS9GbvqAwvK0F+UDTNQtXS9Hgcx+kWQ25Nfq4pNY7AWY2xWIDsWcBnjtSwbHbydDn+jiC14lIocdwwhj78Iy2AT2LuOKoH7Ga/of0lschPoODuiHkvOEvbBNjGF5edbDvlMaTi3BqSM0ndY7XkByWKs3yr9t7o1GhopV5I9odHzLoONrBrkWjdK71Xh7cM/Nv5mSI6rcdjVdPmrUNrGHP6xifsTFwXM2jMk/65iNnLKRvoqXe2TXCDyfCpyQ82Sme8bU2F3kZ+qR5K5+WosVCOR969wxl5w7ciQm2uxPizEhTHaWsaP4DQAAAP//yUjGZwAAAAZJREFUAwCQBa6ZtL7ypgAAAABJRU5ErkJggg=="}
+APM](https://www.udemy.com/course/elastic-8-elasticsearch-kibana-beats-masterclass/?couponCode=CM260417IN)
