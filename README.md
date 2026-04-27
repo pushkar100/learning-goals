@@ -213,9 +213,9 @@ YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
 1. **{Done}** [Spring Boot Tutorial for Beginners \| Full Course 2025 -
 YouTube](https://www.youtube.com/watch?v=Cw0J6jYJtzw)
 
-2. [The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners](https://www.youtube.com/watch?v=jdeSV0GRvwI)
+2. [The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners](https://www.youtube.com/watch?v=Nv2DERaMx-4)
 
-3. [The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners](https://www.youtube.com/watch?v=Nv2DERaMx-4)
+3. [🚀 🔥 Mastering Microservices: Spring boot, Spring Cloud and Keycloak In 7 Hours](https://www.youtube.com/watch?v=jdeSV0GRvwI)
 
 4. [Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation \[NEW\] \[2023\]](https://www.youtube.com/watch?v=KxqlJblhzfI)
 
