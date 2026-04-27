@@ -213,7 +213,7 @@ YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
 1. **{Done}** [Spring Boot Tutorial for Beginners \| Full Course 2025 -
 YouTube](https://www.youtube.com/watch?v=Cw0J6jYJtzw)
 
-2. [Become a Java Backend Engineer with Spring Boot, Spring Security, JPA, REST APIs, Docker, AWS & Production-Ready Skills]([https://www.youtube.com/watch?v=Nv2DERaMx-4](https://www.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/))
+2. [Become a Java Backend Engineer with Spring Boot, Spring Security, JPA, REST APIs, Docker, AWS & Production-Ready Skills](https://www.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/))
 
 3. [🚀 🔥 Mastering Microservices: Spring boot, Spring Cloud and Keycloak In 7 Hours](https://www.youtube.com/watch?v=jdeSV0GRvwI)
 
