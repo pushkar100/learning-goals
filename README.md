@@ -217,7 +217,7 @@ Security](https://www.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-m
 2. [Spring Boot Tutorial for Beginners \| Full Course 2025 -
 YouTube](https://www.youtube.com/watch?v=Cw0J6jYJtzw)
 
-3. [Spring Boot Tutorial for Beginners \[2025\]](https://www.youtube.com/watch?v=gJrjgg1KVL4)
+3. [The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners](https://www.youtube.com/watch?v=Nv2DERaMx-4)
 
 4. [Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation \[NEW\] \[2023\]](https://www.youtube.com/watch?v=KxqlJblhzfI)
 
@@ -226,6 +226,8 @@ YouTube](https://www.youtube.com/watch?v=Cw0J6jYJtzw)
 6. [10 Spring and Spring Boot Common Mistakes You Need To STOP](https://www.youtube.com/watch?v=CT8dbbe783s&list=PLwvrYc43l1MzeA2bBYQhCWr2gvWLs9A7S&index=15)
 
 7. [The full guide to Batch processing with Spring boot | Full guide](https://www.youtube.com/watch?v=X48mMxEMYps)
+
+8. [Reactive Programming with Spring Boot | A Beginner's Guide](https://www.youtube.com/watch?v=EnUsNVHveyU)
 
 ### 6. Kafka & RMQ 
 
