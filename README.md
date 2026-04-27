@@ -210,12 +210,10 @@ YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
 
 ### 5. Java & SB 
 
-1. [\[Finish remaining parts\] \[NEW\] Master Spring 7, Spring Boot 4,
-REST, JPA,
-Security](https://www.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/?couponCode=CM260417IN)
-
-2. [Spring Boot Tutorial for Beginners \| Full Course 2025 -
+1. **{Done}** [Spring Boot Tutorial for Beginners \| Full Course 2025 -
 YouTube](https://www.youtube.com/watch?v=Cw0J6jYJtzw)
+
+2. [The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners](https://www.youtube.com/watch?v=jdeSV0GRvwI)
 
 3. [The ULTIMATE Guide to Spring Boot: Spring Boot for Beginners](https://www.youtube.com/watch?v=Nv2DERaMx-4)
 
