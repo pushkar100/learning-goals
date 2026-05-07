@@ -1,8 +1,8 @@
-# Bookmarks
+# Learning goals
 
-### Bookmarks bar 
+**2026**
 
-### System design 
+## System design 
 
 1. [InterviewReady/system-design-resources: These are the best resources
 for System Design on the
@@ -20,32 +20,7 @@ interviews.](https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-fil
 systems. Prep for the system design interview. Includes Anki
 flashcards.](https://github.com/donnemartin/system-design-primer?tab=readme-ov-file)
 
-### Interesting Tech Videos (Backend) 
-
-1. [Let's Handle 1 Million Requests per Second, It's Scarier Than You
-Think! -
-YouTube](https://www.youtube.com/watch?v=W4EwfEU8CGA)
-
-2. [How AWS S3 is built -
-YouTube](https://www.youtube.com/watch?v=5vL6aCvgQXU)
-
-3. [How OpenAI Handles 800 Million ChatGPT Users on a Single PostgreSQL
-Primary -
-YouTube](https://www.youtube.com/watch?v=ubpUjovBMAM)
-
-4. [(Amazon DynamoDB - Paper Explained -
-YouTube](https://www.youtube.com/watch?v=LnqKfLcszEg)
-
-5. [Build a robust Payments service using Idempotency Keys -
-YouTube](https://www.youtube.com/watch?v=m6DtqSb1BDM)
-
-6. [How NGINX Handles MILLIONS of Requests With Just 1 Process 🔥 -
-YouTube](https://www.youtube.com/watch?v=I6dpN0geIb4)
-
-7. [Introduction to Tracing : OpenTelemetry & Opentracing -
-YouTube](https://www.youtube.com/watch?v=idDu_jXqf4E)
-
-### 1. k8s 
+## k8s 
 
 1. [Kubernetes Explained -
 YouTube](https://www.youtube.com/watch?v=aSrqRSk43lY)
@@ -70,7 +45,7 @@ YouTube](https://www.youtube.com/watch?v=-ykwb1d0DXU)
 7. [Helm and Helm Charts Explained - Helm Tutorial for Beginners -
 YouTube](https://www.youtube.com/watch?v=w51lDVuRWuk)
 
-### 2. Claude & AI 
+## 2. Claude & AI 
 
 1. [AI-Assisted Coding Tutorial -- OpenClaw, GitHub Copilot, Claude Code,
 CodeRabbit, Gemini CLI -
@@ -82,12 +57,12 @@ YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiiv
 3. [\[LATER \| NOT NOW\] ChatGPT and LangChain: The Complete Developer\'s
 Masterclass](https://www.udemy.com/course/chatgpt-and-langchain-the-complete-developers-masterclass/)
 
-### Vector DB 
+## Vector DB 
 
 1. [Vector Databases Fundamentals to Production \[2026
 Edition\]](https://www.udemy.com/course/vector-databases-ai/?couponCode=CM260417IN)
 
-### 3. NodeJS 
+## 3. NodeJS 
 
 1. [NodeJS Pro: Advanced Streams, Design Patterns,
 Performance](https://www.udemy.com/course/advanced-node-js/?couponCode=CM260417IN)
@@ -95,7 +70,7 @@ Performance](https://www.udemy.com/course/advanced-node-js/?couponCode=CM260417I
 2. [\[LATER \| NOT NOW\] NodeJS Internals and
 Architecture](https://www.udemy.com/course/nodejs-internals-and-architecture/?couponCode=CM260417IN)
 
-### 4. Databases 
+## 4. Databases 
 
 ### Data Modeling Basics 
 
@@ -106,6 +81,20 @@ YouTube](https://www.youtube.com/watch?v=GFQaEYEc8_8&t=289s)
 YouTube](https://www.youtube.com/watch?v=LowjDtiNlk4)
 
 3. [Data Modeling for MongoDB](https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb)
+
+4. [How to Solve This Database Design Problem](https://www.youtube.com/watch?v=_1aDtdth7xc)
+
+5. [Design Good Schemas - Get a Better Database - Nuri Halperin - NDC Oslo 2023](https://www.youtube.com/watch?v=iDWwoz9ZUzw&t=2470s)
+
+6. [The Best Way To Add Audit Tables to Your Database](https://www.youtube.com/watch?v=jvjhDBXSAZU&t=1s)
+
+7. [Stop Using ENUMs in Your Database (Use This Instead)](https://www.youtube.com/watch?v=MAvyfhTpz-o)
+
+8. [Database Design - similar records, what to do?](https://www.youtube.com/watch?v=Pg0ADtwt32k)
+
+9. [Stop Adding Indexes. Do This Instead](https://www.youtube.com/watch?v=vqq1JMqwm5w)
+
+10. [How to Clean Up a Messy Database Step-by-Step](https://www.youtube.com/watch?v=lLoOY57mjc4)
 
 ### SQL 
 
@@ -216,7 +205,7 @@ YouTube](https://www.youtube.com/watch?v=YPorP8BsF_c)
 4. [How Shopify's engineering improved database writes by 50% with ULID -
 YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
 
-### 5. Java & SB 
+## Java & SB 
 
 1. **{Done}** [Spring Boot Tutorial for Beginners \| Full Course 2025 -
 YouTube](https://www.youtube.com/watch?v=Cw0J6jYJtzw)
@@ -235,7 +224,7 @@ YouTube](https://www.youtube.com/watch?v=Cw0J6jYJtzw)
 
 8. [Reactive Programming with Spring Boot | A Beginner's Guide](https://www.youtube.com/watch?v=EnUsNVHveyU)
 
-### 6. Kafka & RMQ 
+## Kafka & RMQ 
 
 1. [The Complete Apache Kafka Practical
 Guide](https://www.udemy.com/course/apache_kafka/?couponCode=CM260417IN)
@@ -247,10 +236,35 @@ YouTube](https://www.youtube.com/watch?v=LJzS6dUV-GE&t=11s)
 3. [RabbitMQ & Java (Spring Boot 3) Bootcamp - Basic To
 Advanced](https://www.udemy.com/course/rabbitmq-java-spring-boot-for-system-integration/?couponCode=CM260417IN)
 
-### 7. ElasticSearch 
+## ElasticSearch 
 
 1. [Elasticsearch 8, Kibana, Logstash, Beats: ELK
 Stack](https://www.udemy.com/course/the-ultimate-elasticsearch-and-kibana-handbook-elk/?couponCode=CM260417IN)
 
 [ELASTIC 8: Monitoring with Elasticsearch, Kibana, Beats,
 APM](https://www.udemy.com/course/elastic-8-elasticsearch-kibana-beats-masterclass/?couponCode=CM260417IN)
+
+## Interesting Tech Videos (Backend) 
+
+1. [Let's Handle 1 Million Requests per Second, It's Scarier Than You
+Think! -
+YouTube](https://www.youtube.com/watch?v=W4EwfEU8CGA)
+
+2. [How AWS S3 is built -
+YouTube](https://www.youtube.com/watch?v=5vL6aCvgQXU)
+
+3. [How OpenAI Handles 800 Million ChatGPT Users on a Single PostgreSQL
+Primary -
+YouTube](https://www.youtube.com/watch?v=ubpUjovBMAM)
+
+4. [(Amazon DynamoDB - Paper Explained -
+YouTube](https://www.youtube.com/watch?v=LnqKfLcszEg)
+
+5. [Build a robust Payments service using Idempotency Keys -
+YouTube](https://www.youtube.com/watch?v=m6DtqSb1BDM)
+
+6. [How NGINX Handles MILLIONS of Requests With Just 1 Process 🔥 -
+YouTube](https://www.youtube.com/watch?v=I6dpN0geIb4)
+
+7. [Introduction to Tracing : OpenTelemetry & Opentracing -
+YouTube](https://www.youtube.com/watch?v=idDu_jXqf4E)
