@@ -105,6 +105,12 @@ YouTube](https://www.youtube.com/watch?v=GFQaEYEc8_8&t=289s)
 2. [Entity Relationship Diagrams -
 YouTube](https://www.youtube.com/watch?v=LowjDtiNlk4)
 
+### SQL 
+
+1. [SQL Performance Explained](https://github.com/quynhethereal/books-2/blob/master/databases%2FSQL%20Performance%20Explained.pdf)
+
+2. [SQL Antipatterns (Book)](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Pragmatic%20Programmers/SQL%20Antipatterns.pdf)
+
 ### PostgreSQL & SQLite 
 
 1. [\[Finish remaining parts\] SQL and PostgreSQL: The Complete
