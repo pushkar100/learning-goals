@@ -105,7 +105,7 @@ YouTube](https://www.youtube.com/watch?v=GFQaEYEc8_8&t=289s)
 2. [Entity Relationship Diagrams -
 YouTube](https://www.youtube.com/watch?v=LowjDtiNlk4)
 
-3. [Data Model Patterns: Conventions of Thought (Book)](https://api.pageplace.de/preview/DT0400.9780133488647_A23586200/preview-9780133488647_A23586200.pdf)
+3. [Data Modeling for MongoDB](https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb)
 
 ### SQL 
 
