@@ -96,6 +96,8 @@ YouTube](https://www.youtube.com/watch?v=LowjDtiNlk4)
 
 10. [How to Clean Up a Messy Database Step-by-Step](https://www.youtube.com/watch?v=lLoOY57mjc4)
 
+11. [Avoid This Type of Database Design](https://www.youtube.com/watch?v=VeYs1t3qSvA)
+
 ### SQL 
 
 1. [SQL Performance Explained (Book)](https://github.com/quynhethereal/books-2/blob/master/databases%2FSQL%20Performance%20Explained.pdf)
