@@ -183,6 +183,8 @@ Course](https://www.udemy.com/course/mongodb-a-complete-course-on-database-admin
 Library -
 YouTube](https://www.youtube.com/watch?v=bALyYC10ABw)
 
+4. [MongoDB Data Modeling Path](https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb)
+
 ### DynamoDB 
 
 1. [Amazon DynamoDB Data Modeling for Architects &
