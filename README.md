@@ -80,7 +80,7 @@ YouTube](https://www.youtube.com/watch?v=GFQaEYEc8_8&t=289s)
 2. [Entity Relationship Diagrams -
 YouTube](https://www.youtube.com/watch?v=LowjDtiNlk4)
 
-3. [Data Modeling for MongoDB](https://learn.mongodb.com/learning-paths/data-modeling-for-mongodb)
+3. [Beginning Database Design](https://library.uc.edu.kh/userfiles/pdf/3.Beginning%20Database%20Design.pdf)
 
 4. [How to Solve This Database Design Problem](https://www.youtube.com/watch?v=_1aDtdth7xc)
 
