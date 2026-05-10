@@ -67,20 +67,22 @@ Edition\]](https://www.udemy.com/course/vector-databases-ai/?couponCode=CM260417
 1. [NodeJS Pro: Advanced Streams, Design Patterns,
 Performance](https://www.udemy.com/course/advanced-node-js/?couponCode=CM260417IN)
 
-2. [\[LATER \| NOT NOW\] NodeJS Internals and
+2. [NodeJS Internals and
 Architecture](https://www.udemy.com/course/nodejs-internals-and-architecture/?couponCode=CM260417IN)
+
+3. [NestJS Zero to Hero - Modern TypeScript Back-end Development](https://www.udemy.com/course/nestjs-zero-to-hero/?couponCode=KEEPLEARNING)
+
+4. [NestJS Microservices: Build & Deploy a Scaleable Backend](https://www.udemy.com/course/nestjs-microservices-build-deploy-a-scaleable-backend/?couponCode=KEEPLEARNING)
 
 ## 4. Databases 
 
 ### Data Modeling Basics 
 
-1. [Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF -
-YouTube](https://www.youtube.com/watch?v=GFQaEYEc8_8&t=289s)
+1. [Beginning Database Design (Book)](https://library.uc.edu.kh/userfiles/pdf/3.Beginning%20Database%20Design.pdf)
 
-2. [Entity Relationship Diagrams -
-YouTube](https://www.youtube.com/watch?v=LowjDtiNlk4)
+2. [Entity Relationship Diagrams - YouTube](https://www.youtube.com/watch?v=LowjDtiNlk4)
 
-3. [Beginning Database Design (Book)](https://library.uc.edu.kh/userfiles/pdf/3.Beginning%20Database%20Design.pdf)
+3. [Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF - YouTube](https://www.youtube.com/watch?v=GFQaEYEc8_8&t=289s)
 
 4. [How to Solve This Database Design Problem](https://www.youtube.com/watch?v=_1aDtdth7xc)
 
