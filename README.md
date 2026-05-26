@@ -18,9 +18,9 @@
 4. [Build 10 AI Agents with Claude Code & Claude Cowork [2026]](https://www.udemy.com/course/claude-code-cowork/?couponCode=CP260518SUMMXIN)
 5. [Agentic AI Bootcamp: AI Agents with Python, n8n, MCP & RAG](https://www.udemy.com/course/agentic-ai-bootcamp-ai-agents-with-python-n8n-mcp-rag/?couponCode=CP260518SUMMXIN)
 6. Learn about:
-  - LLMS.txt
-  - Graphify
-  - Supermemory
+    - LLMS.txt
+    - Graphify
+    - Supermemory
 
 ## Vector DB 
 
