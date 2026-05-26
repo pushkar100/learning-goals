@@ -74,3 +74,12 @@
 ## Rust
 
 1. [Rust: The Complete Developer's Guide](https://www.udemy.com/course/rust-the-complete-developers-guide/?couponCode=CP260518SUMMXIN)
+
+## Systems/Data Programming
+
+1. [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+2. [Fundamentals of Operating Systems - Hussein Nasser](https://www.udemy.com/course/fundamentals-of-operating-systems/?couponCode=CP260518SUMMXIN)
+3. [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/?couponCode=CP260518SUMMXIN)
+5. [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+6. [Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+7. [CMU 15-445/645: Introduction to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYMAgsGH-GtY5rJYZ6zjsd5)
