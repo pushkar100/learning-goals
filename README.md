@@ -14,6 +14,9 @@
 
 1. [AI-Assisted Coding Tutorial -- OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI - YouTube](https://www.youtube.com/watch?v=wlpBCazAY9Q)
 2. [Claude Code Tutorial - YouTube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY)
+3. [The AI Engineer Course 2026: Complete AI Engineer Bootcamp](https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/?couponCode=CP260518SUMMXIN)
+4. [Build 10 AI Agents with Claude Code & Claude Cowork [2026]](https://www.udemy.com/course/claude-code-cowork/?couponCode=CP260518SUMMXIN)
+5. [Agentic AI Bootcamp: AI Agents with Python, n8n, MCP & RAG](https://www.udemy.com/course/agentic-ai-bootcamp-ai-agents-with-python-n8n-mcp-rag/?couponCode=CP260518SUMMXIN)
 
 ## Vector DB 
 
@@ -63,3 +66,7 @@
 7. POSTGRESQL: [They Enabled Postgres Partitioning and their Backend fell apart - YouTube](https://www.youtube.com/watch?v=YPorP8BsF_c)
 8. ULID: [How Shopify's engineering improved database writes by 50% with ULID - YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
 9. POSTGRESQL: [PostgreSQL Internal Architecture Explained - YouTube](https://www.youtube.com/watch?v=Q56kljmIN14&t=18s)
+
+## Rust
+
+1. [Rust: The Complete Developer's Guide](https://www.udemy.com/course/rust-the-complete-developers-guide/?couponCode=CP260518SUMMXIN)
