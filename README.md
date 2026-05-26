@@ -244,25 +244,10 @@ APM](https://www.udemy.com/course/elastic-8-elasticsearch-kibana-beats-mastercla
 
 ## Interesting Tech Videos (Backend) 
 
-1. [Let's Handle 1 Million Requests per Second, It's Scarier Than You
-Think! -
-YouTube](https://www.youtube.com/watch?v=W4EwfEU8CGA)
+1. SCALE: [Let's Handle 1 Million Requests per Second, It's Scarier Than You Think! - YouTube](https://www.youtube.com/watch?v=W4EwfEU8CGA)
 
-2. [How AWS S3 is built -
-YouTube](https://www.youtube.com/watch?v=5vL6aCvgQXU)
+2. POSTGRESQL: [How OpenAI Handles 800 Million ChatGPT Users on a Single PostgreSQL Primary - YouTube](https://www.youtube.com/watch?v=ubpUjovBMAM)
 
-3. [How OpenAI Handles 800 Million ChatGPT Users on a Single PostgreSQL
-Primary -
-YouTube](https://www.youtube.com/watch?v=ubpUjovBMAM)
+3. IDEMPOTENCY: [Build a robust Payments service using Idempotency Keys - YouTube](https://www.youtube.com/watch?v=m6DtqSb1BDM)
 
-4. [(Amazon DynamoDB - Paper Explained -
-YouTube](https://www.youtube.com/watch?v=LnqKfLcszEg)
-
-5. [Build a robust Payments service using Idempotency Keys -
-YouTube](https://www.youtube.com/watch?v=m6DtqSb1BDM)
-
-6. [How NGINX Handles MILLIONS of Requests With Just 1 Process 🔥 -
-YouTube](https://www.youtube.com/watch?v=I6dpN0geIb4)
-
-7. [Introduction to Tracing : OpenTelemetry & Opentracing -
-YouTube](https://www.youtube.com/watch?v=idDu_jXqf4E)
+4. TELEMETRY: [Introduction to Tracing : OpenTelemetry & Opentracing - YouTube](https://www.youtube.com/watch?v=idDu_jXqf4E)
