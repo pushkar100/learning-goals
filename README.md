@@ -4,15 +4,7 @@
 
 ## System design 
 
-1. [InterviewReady/system-design-resources: These are the best resources
-for System Design on the
-Internet](https://github.com/InterviewReady/system-design-resources)
-
-2. [karanpratapsingh/system-design: Learn how to design systems at scale
-and prepare for system design
-interviews](https://github.com/karanpratapsingh/system-design)
-
-3. [ByteByteGoHq/system-design-101: Explain complex systems using visuals
+1. [ByteByteGoHq/system-design-101: Explain complex systems using visuals
 and simple terms. Help you prepare for system design
 interviews.](https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-file)
 
