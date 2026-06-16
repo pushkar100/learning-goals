@@ -28,8 +28,7 @@
 
 ## NodeJS 
 
-1. [NodeJS Pro: Advanced Streams, Design Patterns, Performance](https://www.udemy.com/course/advanced-node-js/?couponCode=CM260417IN)
-2. [NodeJS Internals and Architecture](https://www.udemy.com/course/nodejs-internals-and-architecture/?couponCode=CM260417IN)
+1. [NodeJS Internals and Architecture](https://www.udemy.com/course/nodejs-internals-and-architecture/?couponCode=CM260417IN)
 
 ## Databases 
 
