@@ -1,6 +1,19 @@
-# Learning goals
+# Learning Goals 2026
 
-**2026**
+- [Learning goals](#learning-goals)
+   * [System design ](#system-design)
+   * [Kubernetes (k8s)](#kubernetes-k8s)
+   * [Claude & AI ](#claude-ai)
+   * [Vector DB ](#vector-db)
+   * [NodeJS ](#nodejs)
+   * [Databases ](#databases)
+      + [Database tips & case-studies](#database-tips-case-studies)
+      + [SQL ](#sql)
+      + [PostgreSQL](#postgresql)
+      + [MySQL](#mysql)
+   * [Java & SB ](#java-sb)
+   * [Kafka](#kafka)
+   * [Interesting Tech Videos (Backend) ](#interesting-tech-videos-backend)
 
 ## System design 
 
@@ -29,6 +42,8 @@
 ## NodeJS 
 
 1. [NodeJS Internals and Architecture](https://www.udemy.com/course/nodejs-internals-and-architecture/?couponCode=CM260417IN)
+2. [NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/?couponCode=MT260615G2B1)
+3. [Next JS: The Complete Developer's Guide](https://www.udemy.com/course/next-js-the-complete-developers-guide/?couponCode=MT260615G2B1)
 
 ## Databases 
 
@@ -40,12 +55,15 @@
 
 1. [SQL Queries, Patterns, and Anti-Patterns](https://github.com/pushkar100/notes-databases/blob/main/2-SQL-Queries-Patterns-and-Anti-Patterns.md)
 
-### PostgreSQL & more
+### PostgreSQL
 
 1. [\[Finish remaining parts\] SQL and PostgreSQL: The Complete Developer\'s Guide](https://www.udemy.com/course/sql-and-postgresql/)
 2. [PostgreSQL High Performance Tuning Guide](https://www.udemy.com/course/postgresql-high-performance-tuning-guide/?couponCode=CM260417IN)
-3. [Complete Intro to Databases, v2](https://frontendmasters.com/courses/databases-v2/)
-4. [Fundamentals of Database Engineering](udemy.com/course/database-engines-crash-course/)
+3. [Fundamentals of Database Engineering](udemy.com/course/database-engines-crash-course/)
+
+### MySQL
+
+1. [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?src=sac&kw=mysql&couponCode=MT260615G2B1)
 
 ## Java & SB 
 
@@ -69,16 +87,3 @@
 7. POSTGRESQL: [They Enabled Postgres Partitioning and their Backend fell apart - YouTube](https://www.youtube.com/watch?v=YPorP8BsF_c)
 8. ULID: [How Shopify's engineering improved database writes by 50% with ULID - YouTube](https://www.youtube.com/watch?v=f53-Iw_5ucA)
 9. POSTGRESQL: [PostgreSQL Internal Architecture Explained - YouTube](https://www.youtube.com/watch?v=Q56kljmIN14&t=18s)
-
-## Rust
-
-1. [Rust: The Complete Developer's Guide](https://www.udemy.com/course/rust-the-complete-developers-guide/?couponCode=CP260518SUMMXIN)
-
-## Systems/Data Programming
-
-1. [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-2. [Fundamentals of Operating Systems - Hussein Nasser](https://www.udemy.com/course/fundamentals-of-operating-systems/?couponCode=CP260518SUMMXIN)
-3. [Fundamentals of Database Engineering - Hussein Nasser](https://www.udemy.com/course/database-engines-crash-course/?couponCode=CP260518SUMMXIN)
-5. [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-6. [Distributed Systems lecture series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-7. [CMU 15-445/645: Introduction to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYMAgsGH-GtY5rJYZ6zjsd5)
